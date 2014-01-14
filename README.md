@@ -6,11 +6,15 @@ The post-production discussion of a big LilyPond based [Edition]
 and renewed interest in the performance of LilyPond when it comes to
 complex notational challenges.
 
-While LilyPond's default output is undisputedly extraordinary readable
-it is still not perfect - the amount of necessary tweaks in said edition
-is a telling witness. So we're quite interested in getting a better picture
-of how the actual balance is between a relatively small number of
-tweaks and the relative complexity to achieve them.
+While LilyPond's default output is undisputedly of high quality and
+extraordinaryly readable it is still not perfect - the amount of
+necessary tweaks in said edition is a telling witness.
+With LilyPond you enjoy an incredibly high number of issues you're
+*not* experiencing. But ironing out the comparably small number of
+problems is comparably tedious and difficult to achieve.
+So we're quite interested in getting a better picture
+of how these two poles actually relate, and how they can be compares
+to the user experience with other programs.
 
 In order to investigate this further we thought of a "challenge project"
 comparing LilyPond with other notation programs in a strictly regulated
@@ -21,21 +25,30 @@ program can be analyzed.
 While the challenges are explicitly meant to be comparisons we
 deliberately don't want to call them "contests". The main goal of the
 project is pin-pointing potential areas of improvement rather than
-nominating someone a winner.
+nominating anyone a winner.
+
+After a somewhat messy start we decided to maintain each challenge in its own
+repository on Github. Currently we're working on our first two challenges,
+exclusively piano music:
+
+- [**Schumann: *Estrella*** (from *Carnaval* op. 9)](https://github.com/engraving-challenges/estrella)
+- [**Chopin/Godowsky: *Winterwind*** (Study on a Chopin study)]
+  (https://github.com/engraving-challenges/winterwind)
 
 ---
 
 If you're interested in participating in this adventure feel free to contact us through
-`ul at openlilylib dot org` (or the openlilylib-user mailing list, see below). You should be confident
-to be able to work efficiently with your notation program and have a current version of it.
+`ul at openlilylib dot org` (or the openlilylib-user mailing list, see below). 
+The main requirement you should meet is being reasonably confident with your notation
+program and have a current version of it, as otherwise the results wouldn't be really useful.
+
 It would be good if you would also have experience with version control
 and can work with our Git repository because you cannot add or update
 binary files through the web interface. But that's not a strict requirement and we can assist you with that.
 
-The "rules" of the contest are explained in the [`meta`](meta)
-folder.
-Each challenge is contained in an individual top-level directory, with
-some specific information in a README.md file that will be displayed automatically when you open that directory.
+The "rules" of the contest are explained in [general-rules](general-rules.md).  
+A concise description (not an introduction) of the Git workflows suggested or required
+is in [git-workflows](git-workflows.md).
 
 **Important:** please contact us before starting any work, to ensure that everything will be set up correctly.
 
@@ -49,8 +62,8 @@ Communication channels for this project are:
   [http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user]
   (http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user)  
   Messages should be prefixed with `[Challenges]`
-- This project's [issue tracker](https://github.com/openlilylib/engraving-challenges/issues)  
+- This project's [issue tracker](https://github.com/engraving-challenges/main/issues)  
   for anything appropriate for an issue tracker
 - README.md and other Markdown files in the respective project subdirectories
-- Pull requests as describe [here](https://help.github.com/articles/using-pull-requests)
+- Pull requests as described [here](https://help.github.com/articles/using-pull-requests)
 - Potentially this project's wiki pages (to be considered)
