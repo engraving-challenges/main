@@ -52,7 +52,7 @@ binary files through the web interface. But that's not a strict requirement and 
 
 The "rules" of the contest are explained in [general-rules](general-rules.md).  
 A concise description (not an introduction) of the Git workflows suggested or required
-is in [git-workflows](git-workflows.md).  
+is in [git-workflow](git-workflow.md).  
 A hands-on introduction to version control with Git (from the perspective of music engravers)
 will be continuously extended in the [git-introduction](https://github.com/openlilylib/git-introduction/)
 repository.
