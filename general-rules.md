@@ -1,27 +1,35 @@
-## General Challenge Rules
+#### openLilyLib Engraving Challenges
 
-This document describes the order of operations that you should follow
-as closely as possible when doing a challenge in the "openLilyLib
-Challenge Project".
+# General Challenge Rules / Contributor's Guide
+
+If you participate in an **openLilyLib Engraving Challenge** you should
+try to follow the workflow described in this document as closely as
+possible. We've set it up in order to provide a working situation that
+offers the best possible basis for comparison of different tools'
+strengths and weaknesses.  
+However, if some of these guidelines come severely across the way your
+tool suggests you to work, then you can of course deviate. But please
+do so with enough documentation so we can see your reasoning (and learn
+something about your tools).
 
 ---
 
 ### Set-up:
 
-Each challenge resides in a top-level directory. This directory contains
-a README.md file (displayed automatically on Github) with a concrete
-description of the given challenge.
+Each challenge resides in its own repository in our [Github organization]
+(https://github.com/engraving-challenges). Start with forking and cloning
+the repository as described in [git-workflow](git-workflow.md).
 
 For each participating program (or participant) there will be a dedicated
-subdirectory within the challenge directory. Inside this directory you
-can do what you want, adding subdirectories for any tools, include or
-intermediate files or whatever. You are encouraged to add any number of
+directory. Inside this directory you can do what you want, adding subdirectories
+for any tools, include or intermediate files or whatever.
+You are encouraged to add any number of
 Markdown files (possibly in a subdirectory) to make notes, either for
 your personal use or for documentation, but in the end you should have one
 README.md file in "your" root directory that serves as the main
 documentation of your attempt.
 
-Finally the root directory should contain your main (or entry-point)
+Finally your "root" directory should contain your main (or entry-point)
 document file and the resulting PDF file.
 
 ---
@@ -87,13 +95,21 @@ Git diffs please document each step meticulously.
 Again, in this phase you're not allowed yet to tweak any object
 individually.
 
+#### Tweak to Usable Quality
+
+For many applications you don't need publication quality scores, the most
+common being the use as performance material. We are interested in the
+amount of work to bring a score to such a state with different tools.
+(Of course we know that the state of 'usable quality' is a highly subjective
+one.)
+
 #### Tweak to Publication Quality
 
 Now you should make your score perfect. You're allowed to use *any*
 tools your program offers, including third-party plugins, self-written
 functions or established libraries. But anything has to be reproducible
-by others. This means if this requires a commercial or free plugin or library
-to be present it has to be documented.
+by others. This means that if your score requires a - commercial or free -
+plugin or library to be present this fact has to be documented.
 If you use functions or self-written tools
 that aren't publicly available they have to be somehow accessible
 (for LilyPond you can either place them in the input files themselves,
