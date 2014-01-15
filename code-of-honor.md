@@ -1,13 +1,11 @@
-# LilyPond Engraving Challenge(s)
+#### openLilyLib Engraving Challenge(s)
 
-The documents in this directory outline the general rules that apply
-to our Engraving Challenges. You can also think of it as the
-"Contributor's Guide". Please adhere to it as closely as possible,
-because otherwise the analyses won't be reliable.
+# "Code of Honor":
 
-Let's start with a general 
-
-#### "Code of Honor":
+While the intent of the **openLilyLib Engraving Challenges** clearly *is*
+to compare the performance of different notation programs we deliberately
+did *not* call them "Contests". We're more interested in pin-pointing 
+possible topics for improvement than in nominating a "winner".
 
 1. **Meticulously document progress**  
    Documentation of progress and experiences (good or bad) is essential
@@ -15,7 +13,7 @@ Let's start with a general
    during your work. The appropriate place for such reports is
    your challenge/tool's directory where you can add as many Markdown
    `.md` files as you want.
-   The publication of the final analysis is intended on
+   The publication of final analyses is intended on
    [Scores of Beauty](http://lilypondblog.org),
    our LilyPond community blog.  
    We'll work inside a Git repository in order to have a full and
@@ -50,7 +48,7 @@ Let's start with a general
 #### Contributor's Guide
 
 When you've decided to participate in our challenges and are already
-confident with Git you should check out [Git Workflows](git-workflow.md)
+confident with Git you should check out [git-workflow](git-workflow.md)
 to see how to set up your system. If you have never used Git you will
 be guided as to what will be the best way to go in your situation.
 
@@ -61,3 +59,7 @@ If that structure significantly comes across what is useful with your
 tool then you should take this as an opportunity to discuss the
 differences in workflows. (Of course you won't be forced then to
 use an unusable workflow.)
+
+---
+
+Back to the [main page](README.md)
