@@ -31,16 +31,20 @@ After a somewhat messy start we decided to maintain each challenge in its own
 repository on Github. Currently we're working on our first two challenges,
 exclusively piano music:
 
-- [**Schumann: *Estrella*** (from *Carnaval* op. 9)](https://github.com/engraving-challenges/estrella)
-- [**Chopin/Godowsky: *Winterwind*** (Study on a Chopin study)]
+- [**Schumann: _Estrella_** (from *Carnaval* op. 9)](https://github.com/engraving-challenges/estrella)
+- [**Chopin/Godowsky: _Winterwind_** (Study on a Chopin study)]
   (https://github.com/engraving-challenges/winterwind)
+
+When these have been finished we'll consider continuing work with more and different
+challenges. We will publish summaries and reports somewhere here in this repository
+and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
 
 ---
 
 If you're interested in participating in this adventure feel free to contact us through
 `ul at openlilylib dot org` (or the openlilylib-user mailing list, see below). 
 The main requirement you should meet is being reasonably confident with your notation
-program and have a current version of it, as otherwise the results wouldn't be really useful.
+program and having a current version of it, as otherwise the results wouldn't be reliable.
 
 It would be good if you would also have experience with version control
 and can work with our Git repository because you cannot add or update
@@ -48,20 +52,16 @@ binary files through the web interface. But that's not a strict requirement and 
 
 The "rules" of the contest are explained in [general-rules](general-rules.md).  
 A concise description (not an introduction) of the Git workflows suggested or required
-is in [git-workflows](git-workflows.md).
+is in [git-workflows](git-workflows.md).  
+A hands-on introduction to version control with Git (from the perspective of music engravers)
+will be continuously extended in the [git-introduction](https://github.com/openlilylib/git-introduction/)
+repository.
 
 **Important:** please contact us before starting any work, to ensure that everything will be set up correctly.
 
 Communication channels for this project are:
 
-- The openlilylib-user mailing list  
-  Info page with subscription:
-  [https://lists.sourceforge.net/lists/listinfo/openlilylib-user]
-  (https://lists.sourceforge.net/lists/listinfo/openlilylib-user)  
-  Mailing list archives:
-  [http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user]
-  (http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user)  
-  Messages should be prefixed with `[Challenges]`
+- Our [forum](http://engravingchallenges.freeforums.org)
 - This project's [issue tracker](https://github.com/engraving-challenges/main/issues)  
   for anything appropriate for an issue tracker
 - README.md and other Markdown files in the respective project subdirectories
