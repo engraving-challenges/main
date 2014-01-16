@@ -18,11 +18,6 @@ or do this please contact us or visit our (work-in-progress)
    repository.  
    Please always do `git fetch upstream` to download any new work
    by other contributors.
-3. **Branches**  
-   The `master` branch is intended to reflect the overall progress
-   of the project.  You should *not* add commits to it. For any work you
-   do please add a working branch that is based on the HEAD of `master`.
-   If in any doubt ask someone to set up a working branch for you.
 4. **Pull requests**  
    Whenever you have finished some coherent amount of work (e.g. entering
    the plain music, apply beautification, proof-reading) you should open
