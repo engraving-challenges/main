@@ -1,23 +1,27 @@
 openLilyLib Engraving Challenges
 ================================
 
-The post-production discussion of a big LilyPond based [Edition]
+The post-production discussion of a big [Edition]
 (http://lilypondblog.org/category/fried-songs/) raised considerable
-and renewed interest in the performance of LilyPond when it comes to
-complex notational challenges.
+and renewed interest in the performance of different notation programs
+when it comes to complex notational challenges.
 
-While LilyPond's default output is undisputedly of high quality and
-extraordinaryly readable it is still not perfect - the amount of
-necessary tweaks in said edition is a telling witness.
-With LilyPond you enjoy an incredibly high number of issues you're
-*not* experiencing. But ironing out the comparably small number of
-problems is comparably tedious and difficult to achieve.
-So we're quite interested in getting a better picture
-of how these two poles actually relate, and how they can be compares
-to the user experience with other programs.
+There are programs that create very good out-of-the-box scores
+while others have difficulties sorting out complex notation
+in a satisfactory manner.
+On the other hand there are significant differences in how the
+tools can handle different parts of an editorial workflow:
+
+- Music entry
+- Proof-reading
+- Beautification
+- Creates parts and scores
+- Render a score in different formats/media
+- Collaboration (e.g. between editor and engraver or engraver and proof-readers)
+
 
 In order to investigate this further we thought of a "challenge project"
-comparing LilyPond with other notation programs in a strictly regulated
+comparing LilyPond ("our" tool) with other notation programs in a strictly regulated
 environment. Demanding tasks of different kind (style, structure, 
 historic period etc.) form a context in which the performance of each
 program can be analyzed.
