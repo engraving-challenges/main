@@ -122,6 +122,39 @@ A good way to check that everything is working correctly is to submit your first
 
 Open the command line, go to the repository and run `git status`.  It should report "On branch master [...] nothing to commit, working directory clean".
 
-Create a subdirectory for yourself, with the name "notation-software-your-name" (for example `Finale-2014-John-Doe` - remember to include software version).  Inside, create a `README.md` file (`.md` files are similar to `.txt` files).  In this file you may introduce yourself briefly.
+Create a subdirectory for yourself, with the name "notation-software-your-name" (for example `Finale-2014-John-Doe`).  Inside, create a `README.md` file (`.md` files are similar to `.txt` files).  In this file you may introduce yourself briefly.
 
-Run `git status` again - it should now list your directory under "Untracked files".  Use `git add your-directory-name` to tell git to start tracking it, and make a commit with `git commit -a`
+Run `git status` again - it should now list your directory under "Untracked files".  Use `git add your-directory-name` to tell git to start tracking it, and make a commit with `git commit -am 'brief description'`
+
+Use `git push origin master` to "upload" your changes to your GitHub fork.  Now you want to share the changes from the fork to the original repository.  Go to your fork on GitHub click green `Compare & pull request` button.  You should be able to see your changes below.  If everything is in order, click `Send pull request`.
+
+
+Editing cycle
+-------------
+
+edit files
+
+if you created new files, add them with `git add`.
+
+Commit
+
+push
+
+
+Getting stuff from other participants
+-------------------------------------
+
+Make sure that git status reports "working directory clean"
+
+git pull --rebase upstream 
+
+
+Sharing changes with other participants
+---------------------------------------
+
+(before this, do the pull)
+
+git push
+
+pull request
+

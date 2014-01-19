@@ -17,11 +17,7 @@ possible topics for improvement than in nominating a "winner".
    [Scores of Beauty](http://lilypondblog.org),
    our LilyPond community blog.  
    We'll work inside a Git repository in order to have a full and
-   transparent project history. For the purpose of our challenges it is
-   important to make this as concise and fine-grained as possible.  
-   If you don't have experience with Git and aren't in the position to
-   learn it for this occasion, don't worry. You can ask someone to assist
-   you with that.
+   transparent project history.
 2. **Strictly follow the step-by-step rules of the challenge**  
    In order to be comparable and to allow us to make useful analysis
    it's important to do everything in a prescribed order. There are
@@ -34,14 +30,7 @@ possible topics for improvement than in nominating a "winner".
    certain demanding tasks.
    Although the comparison of different tools is an essential part of
    this project it's not the main goal to nominate a "winner", and it
-   doesn't help anybody to play tricks.  
-   While the text documents of tools like LilyPond can be easily tracked
-   by Git this isn't the same with binary file formats. While a LilyPond input
-   file always reveals what is in it (what has been changed, what is
-   default output) this isn't the same with other file formats.
-   So - if you use programs with binary files - please be honest and
-   document what you do as exactly as possible. Git's commit messages
-   are a very suitable place for such documentation.
+   doesn't help anybody to play tricks.
 
 ---
 

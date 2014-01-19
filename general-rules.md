@@ -17,8 +17,6 @@ something about your tools).
 ### Set-up:
 
 Each challenge resides in its own repository in our [Github organization]
-(https://github.com/engraving-challenges). Start with forking and cloning
-the repository as described in [git-workflow](git-workflow.md).
 
 For each participating program (or participant) there will be a dedicated
 directory. Inside this directory you can do what you want, adding subdirectories
@@ -33,7 +31,13 @@ Finally your "root" directory should contain your main (or entry-point)
 document file and the resulting PDF file.
 
 ---
-
+For the purpose of our challenges it is
+   important to make this as concise and fine-grained as possible.  
+   If you don't have experience with Git and aren't in the position to
+   learn it for this occasion, don't worry. You can ask someone to assist
+   you with that.
+   
+   
 ### Project Phases
 
 Please tackle your assignment according to the following outline. You

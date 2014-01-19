@@ -50,10 +50,6 @@ If you're interested in participating in this adventure feel free to contact us 
 The main requirement you should meet is being reasonably confident with your notation
 program and having a current version of it, as otherwise the results wouldn't be reliable.
 
-It would be good if you would also have experience with version control
-and can work with our Git repository because you cannot add or update
-binary files through the web interface. But that's not a strict requirement and we can assist you with that.
-
 The "rules" of the contest are explained in [general-rules](general-rules.md).  
 A concise description (not an introduction) of the Git workflows suggested or required
 is in [git-workflow](git-workflow.md).  
