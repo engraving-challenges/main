@@ -33,6 +33,8 @@ git config --global user.name "Your Name Here"
 git config --global user.email "your_email@example.com"
 ```
 
+**Question: Does this have to be the same email as used for the Github account?**
+
 ### Haven't used command line before?
 
 A few tips:
@@ -49,9 +51,10 @@ A few tips:
   some other folder, you open that folder.  You can operate on the files that
   you can see in the currently opened folder - just like current working directory.
 
-- To see all files and directories in the current working directory, use `ls`.
+- To see all files and directories in the current working directory, use `ls` or `ls -l`.
 
-- To go to some other directory, use `cd path/where/you/want/to/go`.
+- To go to some other directory, use `cd path/where/you/want/to/go`  
+  (note that this path is relative to the directory you're currently in.)
 
 - To go to the parent directory, use `cd ..`.
 
@@ -60,6 +63,9 @@ A few tips:
 
 - Save typing by using autocompletion.  After writing a few initial characters
   of a command (or a path, etc.) press `TAB` to have it automatically completed.
+  If there are more than one possibility to complete the command nothing will happen
+  first, but pressing `TAB` a second time will present you with a list of all
+  possible completions.
 
 - Copying and pasting in command line is usually done with `Ctrl-Shift-C` and
   `Ctrl-Shift-V` instead of `Ctrl-C` and `Ctrl-V`.
@@ -88,15 +94,24 @@ to the directory where you want to place the repository and run
 replacing USER_NAME with your GitHub user name, and REPO_NAME
 with the actual name of the challenge's repository.
 (You may also copy the repository address from GitHub.  On the website
-_of your fork_, find the `HTTPS clone URL` - it's located on the right).
+_of your fork_, find the `HTTPS clone URL` - it's located on the right).  
+Please note that `git clone` will create a subdirectory inside your current
+working directory, so you don't need to create a directory for the new
+repository. Instead you should have something like a base directory where
+you want to store all your repositories in and run `git clone` from there.
+This will download a copy *of your fork* to your local disk and initialize
+it as a Git repository.
 
 
 ### Add upstream repository to your local clone
 
 To be able to download any new work submitted by other participants,
-you have to add a _remote repository_.  In the command line, run
+you have to add a _remote repository_.  In the command line, navigate
+to *inside your repository directory* and run
 `git remote add upstream https://github.com/engraving-challenges/REPO_NAME.git`,
 replacing REPO_NAME with the name of the challenge's repository.
+This will add a remote with the name of `upstream` to the `origin` remote
+that was initialized by `git clone` and that points to your fork on Github.
 
 
 
