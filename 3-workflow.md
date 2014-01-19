@@ -148,6 +148,17 @@ Please don't exceed 50 characters for the message header and 80
 characters for the message body. Use hard line breaks and avoid
 whitespace at line ends.
 
+GIT Editing cycle
+-------------
+
+edit files
+
+if you created new files, add them with `git add`.
+
+Commit
+
+push
+
 ---
 
 Back to the [main page](README.md)

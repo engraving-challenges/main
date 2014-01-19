@@ -1,5 +1,7 @@
-_This guide assumes that you are new to Git and version control.
-If you already know these tools, see the [Advanced guide]()._
+HOW TO HANDLE GIT BEGINNNERS VS ADVANCED USERS?
+I suggest the following: Make the instructions quite brief, and include links to git-reference.md (looking like "read more about pushing" "what's a commit?").  This reference would be intended to be used as a reference, i.e. not sequentially - you onlty read what parts interst you, and generally land there from links.
+
+---
 
 Set up necessary tools
 ----------------------
@@ -100,33 +102,4 @@ Run `git status` again - it should now list your directory under "Untracked file
 
 Use `git push origin master` to "upload" your changes to your GitHub fork.  Now you want to share the changes from the fork to the original repository.  Go to your fork on GitHub click green `Compare & pull request` button.  You should be able to see your changes below.  If everything is in order, click `Send pull request`.
 
-
-Editing cycle
--------------
-
-edit files
-
-if you created new files, add them with `git add`.
-
-Commit
-
-push
-
-
-Getting stuff from other participants
--------------------------------------
-
-Make sure that git status reports "working directory clean"
-
-git pull --rebase upstream 
-
-
-Sharing changes with other participants
----------------------------------------
-
-(before this, do the pull)
-
-git push
-
-pull request
-
+Committing, pushing and pull requests are described in more detail in later sections.

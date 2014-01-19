@@ -6,6 +6,8 @@ Notes about this file:
 - it should NOT contain any instructions
 - there should be nothing here that the contributor must remember (or will be saearching for later)
 - the goal of this document is to let would-be participants a more detailed idea of what the contest is about, what we want to achieve and what we expect from participants.
+- in particular, i think we shouldn't talk (or at least talk a lot) about git 
+
 ---
 
 # "Code of Honor":
@@ -49,12 +51,11 @@ possible topics for improvement than in nominating a "winner".
 
 #### Contributor's Guide
 
-When you've decided to participate in our challenges and are already
-confident with Git you should check out [git-workflow](git-workflow.md)
-to see how to set up your system. If you have never used Git you will
-be guided as to what will be the best way to go in your situation.
+When you've decided to participate in our challenges you should check out
+[setup](2-setup.md)
+to see how to set up your system.
 
-The [general rules](general-rules.md) are intended as a guideline for
+The [workflow](3-workflow.md) are intended as a guideline for
 the order or operation when working on an assignment. It is important
 to adhere to them so we can reliably compare the progress of the different programs.  
 If that structure significantly comes across what is useful with your
