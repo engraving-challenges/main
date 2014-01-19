@@ -4,6 +4,12 @@ If you already know these tools, see the [Advanced guide]()._
 Set up necessary tools
 ----------------------
 
+This document provides a concise description of our Git workflow.
+It is not intended to introduce you to Git's concepts or tell you
+how to achieve a specific task. If you're having problems to understand
+or do this please contact us or visit our (work-in-progress)
+[Git introduction](https://github.com/openlilylib/git-introduction).
+
 ### Read an introduction about Git
 
 https://github.com/openlilylib/git-introduction/blob/master/old-git-basics.md
@@ -37,43 +43,7 @@ git config --global user.email "your_email@example.com"
 
 ### Haven't used command line before?
 
-A few tips:
-
-- When you open the command line for the first time, all you can see is the
-  "prompt", which looks like `username@hostname ~/where/you/are $`.
-  To run a command, just type it and press `ENTER`.  The command will usually
-  produce some output, and then a new prompt will appear.
-
-- The `~/where/you/are` bit in the prompt is called "current working directory".
-  All commands you run are executed from that directory.  This is actually quite
-  similar to how you usually work with your computer - when you turn it on, you
-  can see your desktop and the files that are on it.  To see files that are in
-  some other folder, you open that folder.  You can operate on the files that
-  you can see in the currently opened folder - just like current working directory.
-
-- To see all files and directories in the current working directory, use `ls` or `ls -l`.
-
-- To go to some other directory, use `cd path/where/you/want/to/go`  
-  (note that this path is relative to the directory you're currently in.)
-
-- To go to the parent directory, use `cd ..`.
-
-- If you want to use filenames with spaces and similar special characters,
-  you have to use quotes, like this: `cd "folder with spaces in name/subdirectory"`
-
-- Save typing by using autocompletion.  After writing a few initial characters
-  of a command (or a path, etc.) press `TAB` to have it automatically completed.
-  If there are more than one possibility to complete the command nothing will happen
-  first, but pressing `TAB` a second time will present you with a list of all
-  possible completions.
-
-- Copying and pasting in command line is usually done with `Ctrl-Shift-C` and
-  `Ctrl-Shift-V` instead of `Ctrl-C` and `Ctrl-V`.
-
-- pressing `Ctrl-C` in command line tells the computer to abort the command
-  that is currently being executed, so you usually don't want to press this
-  key combination accidentally :-)
-
+See [using-command-line.md]
 
 
 Set up the challenge
@@ -123,6 +93,8 @@ A good way to check that everything is working correctly is to submit your first
 Open the command line, go to the repository and run `git status`.  It should report "On branch master [...] nothing to commit, working directory clean".
 
 Create a subdirectory for yourself, with the name "notation-software-your-name" (for example `Finale-2014-John-Doe`).  Inside, create a `README.md` file (`.md` files are similar to `.txt` files).  In this file you may introduce yourself briefly.
+Inside this directory you can do what you want, adding subdirectories
+for any tools, include or intermediate files or whatever.
 
 Run `git status` again - it should now list your directory under "Untracked files".  Use `git add your-directory-name` to tell git to start tracking it, and make a commit with `git commit -am 'brief description'`
 

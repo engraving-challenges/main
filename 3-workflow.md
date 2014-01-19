@@ -16,11 +16,6 @@ something about your tools).
 
 ### Set-up:
 
-Each challenge resides in its own repository in our [Github organization]
-
-For each participating program (or participant) there will be a dedicated
-directory. Inside this directory you can do what you want, adding subdirectories
-for any tools, include or intermediate files or whatever.
 You are encouraged to add any number of
 Markdown files (possibly in a subdirectory) to make notes, either for
 your personal use or for documentation, but in the end you should have one
@@ -32,11 +27,11 @@ document file and the resulting PDF file.
 
 ---
 For the purpose of our challenges it is
-   important to make this as concise and fine-grained as possible.  
-   If you don't have experience with Git and aren't in the position to
-   learn it for this occasion, don't worry. You can ask someone to assist
-   you with that.
-   
+important to make this as concise and fine-grained as possible.  
+If you don't have experience with Git and aren't in the position to
+learn it for this occasion, don't worry. You can ask someone to assist
+you with that.
+
    
 ### Project Phases
 
@@ -132,6 +127,26 @@ such fixes will have on an already beautified score.
 So, if adjusting a dynamic makes a slur move and collide with something else,
 please make a commit in that state and then a separate commit for fixing
 the collision that ensued.
+
+## Commit strategies
+
+Please commit very often. We're particularly interested in the detailed
+documentation of the progress, therefore we need this information.
+In general, commit any individual modification or coherent set of
+changes. This may for example be the addition of a complete voice,
+the definition of a page layout or (later in the project) a single
+fixed pitch or positioning. We know that with binary files this will
+bloat the size of the repository because binary files aren't really
+suitable to be version controlled, but we'll accept this for the sake
+of transparency.  
+Use commit messages to leave as much information as possible about
+what you did. You can also use them to store timing information.
+Please make the title of the commit (the "Commit summary" on Github's
+website) as clear as possible because that's what one will see when
+browsing the project history.
+Please don't exceed 50 characters for the message header and 80
+characters for the message body. Use hard line breaks and avoid
+whitespace at line ends.
 
 ---
 

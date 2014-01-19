@@ -26,14 +26,7 @@ environment. Demanding tasks of different kind (style, structure,
 historic period etc.) form a context in which the performance of each
 program can be analyzed.
 
-While the challenges are explicitly meant to be comparisons we
-deliberately don't want to call them "contests". The main goal of the
-project is pin-pointing potential areas of improvement rather than
-nominating anyone a winner.
-
-After a somewhat messy start we decided to maintain each challenge in its own
-repository on Github. Currently we're working on our first two challenges,
-exclusively piano music:
+Each challenge is maintained in its own repository on GitHub:
 
 - [**Schumann: _Estrella_** (from *Carnaval* op. 9)](https://github.com/engraving-challenges/estrella)
 - [**Chopin/Godowsky: _Winterwind_** (Study on a Chopin study)]
@@ -50,14 +43,13 @@ If you're interested in participating in this adventure feel free to contact us 
 The main requirement you should meet is being reasonably confident with your notation
 program and having a current version of it, as otherwise the results wouldn't be reliable.
 
-The "rules" of the contest are explained in [general-rules](general-rules.md).  
-A concise description (not an introduction) of the Git workflows suggested or required
-is in [git-workflow](git-workflow.md).  
-A hands-on introduction to version control with Git (from the perspective of music engravers)
-will be continuously extended in the [git-introduction](https://github.com/openlilylib/git-introduction/)
-repository.
-
 **Important:** please contact us before starting any work, to ensure that everything will be set up correctly.
+
+Instructions TOC - TODO
+The "rules" of the contest are explained in
+A hands-on introduction to version control with Git (from the perspective of music engravers)
+will be continuously extended in th [git-introduction](https://github.com/openlilylib/git-introduction/)
+repository.
 
 Communication channels for this project are:
 

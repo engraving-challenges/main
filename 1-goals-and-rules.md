@@ -1,6 +1,19 @@
 #### openLilyLib Engraving Challenge(s)
 
+---
+Notes about this file:
+- it should NOT contain any too detailed specifics
+- it should NOT contain any instructions
+- there should be nothing here that the contributor must remember (or will be saearching for later)
+- the goal of this document is to let would-be participants a more detailed idea of what the contest is about, what we want to achieve and what we expect from participants.
+---
+
 # "Code of Honor":
+
+While the challenges are explicitly meant to be comparisons we
+deliberately don't want to call them "contests". The main goal of the
+project is pin-pointing potential areas of improvement rather than
+nominating anyone a winner.
 
 While the intent of the **openLilyLib Engraving Challenges** clearly *is*
 to compare the performance of different notation programs we deliberately
