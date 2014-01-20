@@ -1,5 +1,7 @@
 **This fille will go back to the git-introduction repo once i'm done with it.  Just wanted to have stuff in one place.**
 
+_If you are already familiar with Git, you may skip this section.  If you already know a non-distributed version control system (for example SVN), we advise you to read this section because Git is significantly different._
+
 This document had originally been written as part of the openLilyLib engraving challenges.
 Here it is simply copied to be available. But we'll pick the pieces from it and move them
 to appropriate places in other documents when developing our Git Introduction.
