@@ -1,8 +1,8 @@
-THIS FILE SHOULD BE MOVED TO GIT-INTRODUCTION REPO
-(once we finish the reorganization)
+### Using command line
 
+The command line is a way of communicating with your computer.  It allows you to communicate with computers more directly than using a mouse.
 
-A few tips:
+Here are a few tips to get you started:
 
 - When you open the command line for the first time, all you can see is the
   "prompt", which looks like `username@hostname ~/where/you/are $`.
@@ -32,10 +32,9 @@ A few tips:
   first, but pressing `TAB` a second time will present you with a list of all
   possible completions.
 
-- On normal operating systems (like Linux and MacOS), copying and pasting in
-  command line is usually done with `Ctrl-Shift-C` and `Ctrl-Shift-V` instead of
-  `Ctrl-C` and `Ctrl-V`.  Since Windows doesn't care about being friendly to
-  command-line people, you have to do weird tricks to copy and paste anything.
+- On Linux and MacOS copying and pasting in command line is usually done
+  with `Ctrl-Shift-C` and `Ctrl-Shift-V` (instead of `Ctrl-C` and `Ctrl-V`).
+  On Windows, pasting is done with `Insert` key.
 
 - pressing `Ctrl-C` in command line tells the computer to abort the command
   that is currently being executed, so you usually don't want to press this
