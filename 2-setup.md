@@ -41,7 +41,7 @@ git config --global user.name "Your Name Here"
 git config --global user.email "your_email@example.com"
 ```
 
-**Question: Does this have to be the same email as used for the Github account?**
+(This may or may not be the same as the data used for creating a GitHub account.)
 
 ### Haven't used command line before?
 
