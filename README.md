@@ -56,6 +56,6 @@ Communication channels for this project are:
 - Our [forum](http://engravingchallenges.freeforums.org)
 - This project's [issue tracker](https://github.com/engraving-challenges/main/issues)  
   for anything appropriate for an issue tracker
-- README.md and other Markdown files in the respective project subdirectories
-- Pull requests as described [here](https://help.github.com/articles/using-pull-requests)
 - Potentially this project's wiki pages (to be considered)
+
+ADD LiCENSING INFORMATION HERE

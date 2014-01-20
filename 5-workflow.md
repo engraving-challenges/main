@@ -159,6 +159,16 @@ Commit
 
 push
 
+
+### by Janek:
+* ask participants to measure time spent on each step, to judge which program is faster
+* asking in general "please commit often, so that we can see each stage of the project's progress" does not work very well, because the number of commits people make varies wildly (someone did the whole thing in 3 commits, another in 30, and another had 10 commits just for note entry).  Instead, state the number of expected commits (i think this should be 5-10 for simple pieces and 15-30 for complex ones) and try to list all stages when one's expected to make a commit.  It might be a great help to first typeset the challenge ourselves so that we can see where the commits should be.
+* track *all* pdfs, so that we can afterwards see *every* step.  After all, pdfs are usually 20-100 kB in size, so it shouldn't be too much (100kB * 20 commits = 2 MB per participant, that's not much).
+* as for tracking pdfs (and maybe other binary files): this won't be very "gitish", but i suggest that a new file should be added for every commit (instead of replacing previous file), so that when one checks out the tip of the branch, he can see all stages of work without having to checkout every commit separately.  (Example: sth like what [David Webber did with Mozart](https://github.com/MozartSoftware/engraving-challenges/tree/e3119af366d7bb43ac965286ac2104be981d17dd/challenge02-schumann/Mozart))
+* it seems that some people don't actually commit their program's files (`.mus`, `.sib` etc - whatever their program uses)!  We must emphasize that it's crucial to do this, as we want to be able to reproduce the steps (and the pdfs).
+* ask to commit an empty file first?
+
+
 ---
 
 Back to the [main page](README.md)

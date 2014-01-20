@@ -19,4 +19,4 @@ git push
 
 pull request
 
-https://help.github.com/articles/using-pull-requests
+http://help.github.com/articles/using-pull-requests
