@@ -10,6 +10,10 @@ Notes about this file:
 
 ---
 
+**TODO: Add short introduction**
+
+---
+
 # "Code of Honor":
 
 While the challenges are explicitly meant to be comparisons we

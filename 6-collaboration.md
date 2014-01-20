@@ -5,6 +5,8 @@ Getting stuff from other participants
 
 Make sure that git status reports "working directory clean"
 
+Make clear that this is needed *before any attempt to push*.
+
 git pull --rebase upstream 
 
 

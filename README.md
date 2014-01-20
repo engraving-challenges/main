@@ -39,7 +39,7 @@ and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
 ---
 
 If you're interested in participating in this adventure feel free to contact us through
-`ul at openlilylib dot org` (or the openlilylib-user mailing list, see below). 
+`ul at openlilylib dot org` (or our forum, see below). 
 The main requirement you should meet is being reasonably confident with your notation
 program and having a current version of it, as otherwise the results wouldn't be reliable.
 
