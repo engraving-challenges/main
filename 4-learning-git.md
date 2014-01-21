@@ -3,19 +3,18 @@ Use `git status` all the time
 pay attention to "working dir clean"
 
 which commands can be run with dirty tree:
-
+whcih commands modify the state of the repository?
 
 ## Initial Setup
 
 Before you begin, you will need to create an account on [GitHub](https://github.com).  You will also need to install [Git tools](http://git-scm.com/downloads) on your own machine.
 
 
-### Joining a project
+### What's the situation:
 
-When you first join a project, you start by visiting the main repo and pressing the `Fork` button to create your own copy of that repo.  This fork is *also* stored on GitHub, and you will also have *write* access to this copy.
-You will then have to create a local "clone" of the repository where you can work with on your computer.
-If you have installed GitHub's GUI application for Windows or Mac you can do that by pressing the `Clone in Desktop` button while viewing your fork.  Otherwise you can do that with the `git clone` command. This copies your fork to your own machine.  
-
+main repo
+fork
+local
 
 
 ### git status

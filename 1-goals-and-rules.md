@@ -30,8 +30,8 @@ possible topics for improvement than in nominating a "winner".
    Documentation of progress and experiences (good or bad) is essential
    to this project, so *please* tell us everything you notice
    during your work. The appropriate place for such reports is
-   your challenge/tool's directory where you can add as many Markdown
-   `.md` files as you want.
+   your challenge/tool's directory where you can add many 
+   text files as you want.
    The publication of final analyses is intended on
    [Scores of Beauty](http://lilypondblog.org),
    our LilyPond community blog.  

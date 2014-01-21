@@ -1,32 +1,34 @@
-THIS FILE SHOULD BE MOVED TO GIT-INTRODUCTION REPO
-(once we finish the reorganization)
+This section is not meant to be read all at once.  Rather, use it as a reference, looking up things that are not clear for you.
+
+### git clone
+
+`git clone <remote repository address>` will create a new directory (named the same as the cloned repository) in the current directory.  So, if you are in directory `~/music/engraving/` and you run `git clone https://github.com/github-user-name/foobar.git`, git will clone the repository into `~/music/engraving/foobar`.
+
+You can also specify the path where the cloned repository should be put, like this:
+`git clone <remote repository address> <destination path>
+
+If the <destination path> doesn't exist, it will be created.
+
+Please note that `git clone` will create a subdirectory inside your current
+working directory, so you don't need to create a directory for the new
+repository. Instead you should have something like a base directory where
+you want to store all your repositories in and run `git clone` from there.
+This will download a copy *of your fork* to your local disk and initialize
+it as a Git repository.
 
 
-### on cloning 
+### remote repository
 
-Yeah, git assumes you want to create a new directory with the repository's name if you don't tell it otherwise.
+A remote repository is a repository external to this one (UGH).  It usually is placed in the Internet.
 
-You can specify the path where the cloned repository should be put, like this:
-git clone https://github.com/blahblah/blahblah path/where/the/stuff/should/be/put
+`git remote --verbose`
 
-This way you don't even have to be in the directory were the clone will be placed (the directory may not even exist yet).
+### working directory
 
-
-### git status
-
-will tell you what to do.
+TODO
 
 
-### adding files and ignored files
+### "working directory clean"
 
->     There's one  gotcha here: git has a list of filetypes it ignores in the .gitignore file,
->     and by default .pdf is on this list - so if you're wanting to track and
->     upload PDFs you'll need to edit .gitignore and get rid of the pdf entry.
-
-
-This may not be a good idea: the .gitignore is part of the repository (git actually tracks it).  You should rather add the file explicitely, i.e. 'git add filename' (without using wildcards).
-
-
-### clean working directory
-
+Clean working directory means that the current state of the files in the working directory is saved (committed) to the repository.  To better understand this, imagine that you open a document in an editor.  If you make some changes but don't save the file, 
 Akin to unsaved changes in an opened file.  You wouln't shut your computer down in such situation.

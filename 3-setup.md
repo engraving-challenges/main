@@ -56,6 +56,7 @@ Set up the challenge
 On the GitHub website, find the repository with the challenge that you
 want to work on (they are listed [here](github.com/engraving-challenges))
 and click `Fork` (in the upper-right corner).
+This fork is *also* stored on GitHub, and you will have *write* access to it.
 
 
 ### Clone the repository to your computer
@@ -67,12 +68,6 @@ replacing USER_NAME with your GitHub user name, and REPO_NAME
 with the actual name of the challenge's repository.
 (You may also copy the repository address from GitHub.  On the website
 _of your fork_, find the `HTTPS clone URL` - it's located on the right).  
-Please note that `git clone` will create a subdirectory inside your current
-working directory, so you don't need to create a directory for the new
-repository. Instead you should have something like a base directory where
-you want to store all your repositories in and run `git clone` from there.
-This will download a copy *of your fork* to your local disk and initialize
-it as a Git repository.
 
 
 ### Add upstream repository to your local clone
