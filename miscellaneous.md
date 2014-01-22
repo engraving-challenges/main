@@ -1,3 +1,9 @@
+**OpenLilyLib Engraving Challenges**
+[`back to main page`](http://github.com/engraving-challenges/main/)
+
+-------------------------------------------
+
+
 ### Editing text files
 
 Don't use word processors (like Microsoft Word or OpenOffice) to edit plain text files - it's like driving a truck to take your kids to school.  Instead, use a _text editor_ such as TextMate (on MaxOS), Notepad++ (on Windows), JEdit (on any operating system) or some other.
@@ -23,3 +29,8 @@ Plain text files don't require special software to be read and written; they are
 The first method is cheaper, you don't need specialistic tools for it, you may read the text any time you wish, and the paper is easier to carry around.  And if you have a rubber and a pencil (or a pen, or a crayon), you can modify the text as you wish.
 
 The second method... well, it's only advantage is that the machine can produce the prints in color, and they have high resolution.  But the fact that you have to carry a refridgerator with you just to read them doesn't make it very convenient.
+
+
+-------------------------------------------
+**OpenLilyLib Engraving Challenges**
+[`back to main page`](http://github.com/engraving-challenges/main/)

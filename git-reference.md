@@ -1,3 +1,9 @@
+**OpenLilyLib Engraving Challenges**
+[`back to main page`](http://github.com/engraving-challenges/main/)
+
+-------------------------------------------
+
+
 This section is not meant to be read all at once.  Rather, use it as a reference, looking up things that are not clear for you.
 
 ### git clone
@@ -32,3 +38,8 @@ TODO
 
 Clean working directory means that the current state of the files in the working directory is saved (committed) to the repository.  To better understand this, imagine that you open a document in an editor.  If you make some changes but don't save the file, 
 Akin to unsaved changes in an opened file.  You wouln't shut your computer down in such situation.
+
+
+-------------------------------------------
+**OpenLilyLib Engraving Challenges**
+[`back to main page`](http://github.com/engraving-challenges/main/)

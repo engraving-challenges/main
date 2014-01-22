@@ -1,3 +1,10 @@
+**OpenLilyLib Engraving Challenges**
+[`<= previous`](3-setup.md)
+[`main page`](http://github.com/engraving-challenges/main/)
+[`next =>`](5-editing-workflow.md)
+
+-------------------------------------------
+
 Use `git status` all the time
 
 pay attention to "working dir clean"
@@ -11,6 +18,7 @@ Before you begin, you will need to create an account on [GitHub](https://github.
 
 
 ### What's the situation:
+
 
 main repo
 fork
@@ -54,3 +62,10 @@ Another thing: please always, **always** paste not just the error message, but a
 > janek@pacan ~/repos/lilypond-git (master)$
 
 It's the only way for us to know what you're actually doing so that we may guess why it fails.
+
+
+-------------------------------------------
+**OpenLilyLib Engraving Challenges**
+[`<= previous`](3-setup.md)
+[`main page`](http://github.com/engraving-challenges/main/)
+[`next =>`](5-editing-workflow.md)

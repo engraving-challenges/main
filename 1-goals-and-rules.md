@@ -1,6 +1,11 @@
-#### openLilyLib Engraving Challenge(s)
+**OpenLilyLib Engraving Challenges**
+`<= previous`
+[`main page`](http://github.com/engraving-challenges/main/)
+[`next =>`](2-version-control-intro.md)
 
----
+-------------------------------------------
+
+
 Notes about this file:
 - it should NOT contain any too detailed specifics
 - it should NOT contain any instructions
@@ -67,6 +72,9 @@ tool then you should take this as an opportunity to discuss the
 differences in workflows. (Of course you won't be forced then to
 use an unusable workflow.)
 
----
 
-Back to the [main page](README.md)
+-------------------------------------------
+**OpenLilyLib Engraving Challenges**
+`<= previous`
+[`main page`](http://github.com/engraving-challenges/main/)
+[`next =>`](2-version-control-intro.md)

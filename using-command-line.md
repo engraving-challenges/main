@@ -1,3 +1,9 @@
+**OpenLilyLib Engraving Challenges**
+[`back to main page`](http://github.com/engraving-challenges/main/)
+
+-------------------------------------------
+
+
 ### Using command line
 
 The command line is a way of communicating with your computer.  It allows you to communicate with computers more directly than using a mouse.
@@ -39,3 +45,8 @@ Here are a few tips to get you started:
 - pressing `Ctrl-C` in command line tells the computer to abort the command
   that is currently being executed, so you usually don't want to press this
   key combination accidentally :-)
+
+
+-------------------------------------------
+**OpenLilyLib Engraving Challenges**
+[`back to main page`](http://github.com/engraving-challenges/main/)

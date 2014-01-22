@@ -1,4 +1,9 @@
-#### openLilyLib Engraving Challenges
+**OpenLilyLib Engraving Challenges**
+[`<= previous`](4-learning-git.md)
+[`main page`](http://github.com/engraving-challenges/main/)
+[`next =>`](6-collaboration.md)
+
+-------------------------------------------
 
 # General Challenge Rules / Contributor's Guide
 
@@ -169,6 +174,8 @@ push
 * ask to commit an empty file first?
 
 
----
-
-Back to the [main page](README.md)
+-------------------------------------------
+**OpenLilyLib Engraving Challenges**
+[`<= previous`](4-learning-git.md)
+[`main page`](http://github.com/engraving-challenges/main/)
+[`next =>`](6-collaboration.md)

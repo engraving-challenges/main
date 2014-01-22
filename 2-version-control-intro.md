@@ -1,3 +1,10 @@
+**OpenLilyLib Engraving Challenges**
+[`<= previous`](1-goals-and-rules.md)
+[`main page`](http://github.com/engraving-challenges/main/)
+[`next =>`](3-setup.md)
+
+-------------------------------------------
+
 _If you are already familiar with Git, you may [skip](3-setup.md) this section.  If you already know a non-distributed version control system (for example SVN), we advise you to read this section because Git is significantly different._
 
 # What is version control?
@@ -36,3 +43,10 @@ Every so often, you will also decide it would be good to grab the work others ha
 You will normally create "branches" for your work, but the rules for how you are expected to manage your branches may differ from project to project.  That is where the [git workflow](git-workflow.md) for your specific project will hopefully give you more guidance.
 
 Again, this basic overview applies to many projects on GitHub.  For more information on the workflow for this specific project, including when and how to branch, commit, push, and issue Pull Requests, see the [Git Workflow document](git-workflow.md).
+
+
+-------------------------------------------
+**OpenLilyLib Engraving Challenges**
+[`<= previous`](1-goals-and-rules.md)
+[`main page`](http://github.com/engraving-challenges/main/)
+[`next =>`](3-setup.md)

@@ -1,3 +1,10 @@
+**OpenLilyLib Engraving Challenges**
+[`<= previous`](2-version-control-intro.md)
+[`main page`](http://github.com/engraving-challenges/main/)
+[`next =>`](4-learning-git.md)
+
+-------------------------------------------
+
 HOW TO HANDLE GIT BEGINNNERS VS ADVANCED USERS?
 I suggest the following: Make the instructions quite brief, and include links to git-reference.md (looking like "read more about pushing" "what's a commit?").  This reference would be intended to be used as a reference, i.e. not sequentially - you onlty read what parts interst you, and generally land there from links.
 
@@ -98,3 +105,10 @@ Run `git status` again - it should now list your directory under "Untracked file
 Use `git push origin master` to "upload" your changes to your GitHub fork.  Now you want to share the changes from the fork to the original repository.  Go to your fork on GitHub click green `Compare & pull request` button.  You should be able to see your changes below.  If everything is in order, click `Send pull request`.
 
 Committing, pushing and pull requests are described in more detail in later sections.
+
+
+-------------------------------------------
+**OpenLilyLib Engraving Challenges**
+[`<= previous`](2-version-control-intro.md)
+[`main page`](http://github.com/engraving-challenges/main/)
+[`next =>`](4-learning-git.md)

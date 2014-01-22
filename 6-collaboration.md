@@ -1,3 +1,11 @@
+**OpenLilyLib Engraving Challenges**
+[`<= previous`](4-learning-git.md)
+[`main page`](http://github.com/engraving-challenges/main/)
+`next =>`
+
+-------------------------------------------
+
+
 THIS SHOULD PROABBYL HAVE DIFFERENT NAME
 
 Getting stuff from other participants
@@ -20,3 +28,10 @@ git push
 pull request
 
 http://help.github.com/articles/using-pull-requests
+
+
+-------------------------------------------
+**OpenLilyLib Engraving Challenges**
+[`<= previous`](4-learning-git.md)
+[`main page`](http://github.com/engraving-challenges/main/)
+`next =>`
