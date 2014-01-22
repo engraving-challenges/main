@@ -1,4 +1,4 @@
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`back to main page`](http://github.com/engraving-challenges/main/)
 
 -------------------------------------------
@@ -48,5 +48,5 @@ Here are a few tips to get you started:
 
 
 -------------------------------------------
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`back to main page`](http://github.com/engraving-challenges/main/)

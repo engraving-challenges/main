@@ -1,4 +1,4 @@
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 `<= previous`
 [`main page`](http://github.com/engraving-challenges/main/)
 [`next =>`](2-version-control-intro.md)
@@ -26,7 +26,7 @@ deliberately don't want to call them "contests". The main goal of the
 project is pin-pointing potential areas of improvement rather than
 nominating anyone a winner.
 
-While the intent of the **openLilyLib Engraving Challenges** clearly *is*
+While the intent of the **_Scores of Beauty_ Engraving Challenges** clearly *is*
 to compare the performance of different notation programs we deliberately
 did *not* call them "Contests". We're more interested in pin-pointing 
 possible topics for improvement than in nominating a "winner".
@@ -74,7 +74,7 @@ use an unusable workflow.)
 
 
 -------------------------------------------
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 `<= previous`
 [`main page`](http://github.com/engraving-challenges/main/)
 [`next =>`](2-version-control-intro.md)

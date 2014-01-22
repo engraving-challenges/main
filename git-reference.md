@@ -1,4 +1,4 @@
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`back to main page`](http://github.com/engraving-challenges/main/)
 
 -------------------------------------------
@@ -41,5 +41,5 @@ Akin to unsaved changes in an opened file.  You wouln't shut your computer down 
 
 
 -------------------------------------------
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`back to main page`](http://github.com/engraving-challenges/main/)

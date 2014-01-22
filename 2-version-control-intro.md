@@ -1,4 +1,4 @@
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](1-goals-and-rules.md)
 [`main page`](http://github.com/engraving-challenges/main/)
 [`next =>`](3-setup.md)
@@ -46,7 +46,7 @@ Again, this basic overview applies to many projects on GitHub.  For more informa
 
 
 -------------------------------------------
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](1-goals-and-rules.md)
 [`main page`](http://github.com/engraving-challenges/main/)
 [`next =>`](3-setup.md)

@@ -1,4 +1,4 @@
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](4-learning-git.md)
 [`main page`](http://github.com/engraving-challenges/main/)
 [`next =>`](6-collaboration.md)
@@ -7,7 +7,7 @@
 
 # General Challenge Rules / Contributor's Guide
 
-If you participate in an **openLilyLib Engraving Challenge** you should
+If you participate in an **_Scores of Beauty_ Engraving Challenge** you should
 try to follow the workflow described in this document as closely as
 possible. We've set it up in order to provide a working situation that
 offers the best possible basis for comparison of different tools'
@@ -175,7 +175,7 @@ push
 
 
 -------------------------------------------
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](4-learning-git.md)
 [`main page`](http://github.com/engraving-challenges/main/)
 [`next =>`](6-collaboration.md)

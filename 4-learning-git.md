@@ -1,4 +1,4 @@
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](3-setup.md)
 [`main page`](http://github.com/engraving-challenges/main/)
 [`next =>`](5-editing-workflow.md)
@@ -65,7 +65,7 @@ It's the only way for us to know what you're actually doing so that we may guess
 
 
 -------------------------------------------
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](3-setup.md)
 [`main page`](http://github.com/engraving-challenges/main/)
 [`next =>`](5-editing-workflow.md)

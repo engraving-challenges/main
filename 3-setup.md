@@ -1,4 +1,4 @@
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](2-version-control-intro.md)
 [`main page`](http://github.com/engraving-challenges/main/)
 [`next =>`](4-learning-git.md)
@@ -108,7 +108,7 @@ Committing, pushing and pull requests are described in more detail in later sect
 
 
 -------------------------------------------
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](2-version-control-intro.md)
 [`main page`](http://github.com/engraving-challenges/main/)
 [`next =>`](4-learning-git.md)

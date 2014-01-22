@@ -1,4 +1,4 @@
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`back to main page`](http://github.com/engraving-challenges/main/)
 
 -------------------------------------------
@@ -32,5 +32,5 @@ The second method... well, it's only advantage is that the machine can produce t
 
 
 -------------------------------------------
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`back to main page`](http://github.com/engraving-challenges/main/)

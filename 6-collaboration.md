@@ -1,4 +1,4 @@
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](4-learning-git.md)
 [`main page`](http://github.com/engraving-challenges/main/)
 `next =>`
@@ -31,7 +31,7 @@ http://help.github.com/articles/using-pull-requests
 
 
 -------------------------------------------
-**OpenLilyLib Engraving Challenges**
+**_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](4-learning-git.md)
 [`main page`](http://github.com/engraving-challenges/main/)
 `next =>`

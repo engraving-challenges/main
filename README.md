@@ -1,5 +1,5 @@
-openLilyLib Engraving Challenges
-================================
+[_Scores of Beauty_](http://lilypondblog.org/) Engraving Challenges
+===================================================================
 
 The post-production discussion of a big [Edition]
 (http://lilypondblog.org/category/fried-songs/) raised considerable
