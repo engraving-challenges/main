@@ -127,7 +127,7 @@ otherwise it would be harder to reliably compare different submissions.
 
 #### On/off Operations
 
-Now you can perform "on/off" operations, like manually switching steam
+Now you can perform "on/off" operations, like manually switching stem
 directions, breaking beams, hiding unwanted rests etc. (adjusting
 placement of elements is *not* an "on/off operation).
 
