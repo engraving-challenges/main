@@ -59,9 +59,9 @@ The only requirements for participating in the challenges are: (a) being reasona
    Documentation of progress and experiences (good or bad) is essential
    to this project, so *please* tell us everything you notice
    during your work. These reports should be placed in text file(s) inside
-   your directory.
-   We'll work inside a Git repository in order to have a full and
-   transparent project history.
+   your directory.  
+   We use version control to have a full and transparent project history.
+   (Version control is explained in the next section.)
 2. **Work in a prescribed order**  
    In order to be comparable and to allow us to make useful analysis
    it's important to do everything in a prescribed order, following

@@ -9,85 +9,98 @@
 Editing workflow
 ----------------
 
-The [workflow](3-workflow.md) are intended as a guideline for
-the order or operation when working on an assignment. It is important
-to adhere to them so we can reliably compare the progress of the different programs.
-If that structure significantly comes across what is useful with your
-tool then you should take this as an opportunity to discuss the
-differences in workflows. (Of course you won't be forced then to
-use an unusable workflow.)
-
-# General Challenge Rules / Contributor's Guide
-
-If you participate in an **_Scores of Beauty_ Engraving Challenge** you should
-try to follow the workflow described in this document as closely as
+You should follow the workflow described in this document as closely as
 possible. We've set it up in order to provide a working situation that
-offers the best possible basis for comparison of different tools'
-strengths and weaknesses.  
+offers the best possible basis for reliable comparison of different tools'
+strengths and weaknesses.
+
 However, if some of these guidelines come severely across the way your
 tool suggests you to work, then you can of course deviate. But please
 do so with enough documentation so we can see your reasoning (and learn
 something about your tools).
 
----
+Please document your progress and experiences in
+[Markdown](miscellaneous.md#what-are-md-files)
+file(s) - your `README.md` is a good place for such notes.
+Write about problems you encountered, how you solved them etc.
 
-### Set-up:
+If possible, please measure the time spent during each stage of your work,
+so that we could judge how much effort went into creating your score.
+Add this timing information to commit descriptions and to your
+documentation document.
 
-You are encouraged to add any number of
-Markdown files (possibly in a subdirectory) to make notes, either for
-your personal use or for documentation, but in the end you should have one
-README.md file in "your" root directory that serves as the main
-documentation of your attempt.
 
-Finally your "root" directory should contain your main (or entry-point)
-document file and the resulting PDF file.
+### Commit frequently
 
----
-For the purpose of our challenges it is
-important to make this as concise and fine-grained as possible.  
-If you don't have experience with Git and aren't in the position to
-learn it for this occasion, don't worry. You can ask someone to assist
-you with that.
+**This is important!**
+The main reason for using version control in Engraving Challenges
+is to be able to see _exactly_ how the process of creating the scores
+looked like in each notation program.  This will be possible only
+if you make enough commits that show intermediate stages of your work,
+so **please commit often**.
 
-   
-### Project Phases
+<!-- Use this somewhere?
+Please commit very often. We're particularly interested in the detailed
+documentation of the progress, therefore we need this information.
+-->
 
-Please tackle your assignment according to the following outline. You
-may deviate from this order if there are compelling reasons,
-but please do only after reporting back that you are going to do so,
-and of course with appropriate documentation. As an example it may make
-sense to temporarily modify page layout for proof-reading.
+In general, commit any coherent set of changes.  This may for example
+be the addition of a complete voice, adding articulations, adjusting
+dynamics, defining page layout or (later in the project) even a single
+fix to an issue discovered during proof-reading.
 
-#### Analyze the task
+For simple challenges like Schumann's _Estrella_ we expect about
+10-15 commits; complex pieces like Godowsky's _Winterwind_ may
+warrant something like 15-30 commits.
+
+Every so often, please create a new `.pdf` file showing how your score looks
+at the moment and add it to the commit.  This is _crucial_, as not everyone
+has a copy of your notation software to open your program-specific files.
+These pdf files should be numbered for easier navigation
+(like this: `01-notes-only.pdf`, `02-with-articulations.pdf` etc.).
+Not every commit should come with a new pdf, but we expect _at least_
+7 pdfs documenting the progress of your challenge.
+
+
+### Main Stages of a Challenge
+
+Please prepare your score in the order described below.  Make a few commits
+(including at least one with a pdf) for each of these stages.  Look in the
+challenge description for more specific stages.
+
+#### Task Analysis and Initial Empty File
 
 Have a close look at the assignement and the given score. Please make
 notes about your impressions: How do you expect your tools to be able
-to deal with the task, which problems do you expect, do you think
-about a specific approach etc.?
+to deal with the task, which problems do you expect etc.?
 
-#### Music Entry
+Create an empty file using your notation program, set paper size to what
+the challenge description says and commit it.
 
-In a first step please enter the absolute "raw material". That is,
+#### Raw Music Entry
+
+In the first step please enter the absolute "raw material". That is,
 simply set up your score with the necessary information about parts etc.
-but do *not* make any adjustments to the layout or appearance (the only
-exception to this rule might be if an assignment would result in a score
-that doesn't fit on standard paper). The idea is to get an impression
-of the out-of-the-box output of the different tools.
+but do *not* make any adjustments to the layout.  The idea is to get
+an impression of the out-of-the-box output of your tool.
 
-Even more important: do *not* apply *any* individual adjustment or tweak
-to improve the output quality, it has to be the plain content that is entered.
-What is of course accepted (and encouraged) is the correct
-assignment to voices (or layers). Also accepted *(but only if 
-documented)* are "on/off" operations like manually switching directions or breaking beams etc.
+Even more important: *do not* apply *any* individual adjustments -
+it has to be the plain content that is entered.  Of course, you should
+assign notes to correct voices (layers).
 
-If your prior analysis has shown that you need specific functionality,
-for example through the use of plugins or functions, to fulfill specific
-demands of the given score, and that it would be nonsensical to apply
-this only *after* music entry, you may prepare this before the music
-entry itself (again only with appropriate documentation). Again, this
-isn't a licence for manual tweaks to overcome limitations of the used
-tools.
+An example: imagine that you want to notate this:
 
+![notation you want to write](rests-example-1.png)
+
+But your notation software fills the lower voice with a rest, like this:
+
+![notation your software produces](rests-example-2.png)
+
+**Do not** remove the additional rest at this stage - we want to see _exactly_
+what your notation software produces out-of-the-box.  You should remove such
+unwanted elements in a separate commit in the next stage.
+
+<!--
 #### Proof-reading / Peer review
 
 Now the entered music should be proof-read. We can't prescribe too
@@ -98,92 +111,55 @@ up to you if you find a usable Git based solution or if you send a
 printout by postal mail, just do it collaboratively and make notes
 about your solutions.
 
-#### Global Layout and Appearance
+Janek's comment:
+I think we don't want to proof-read at this stage, because we actually
+would *like* to see a few errors and the impact that fixing them makes
+on a beautified score.  Maybe we should ask to introduce errors on purpose?
+
+e.g. one pitch in wrong octave, one missing accidental,
+one missing long slur...
+-->
+
+#### Adjust Line Breaking
+
+Your score should have the same line breaks as the original engraving -
+otherwise it would be harder to reliably compare different submissions.
+
+#### On/off Operations
+
+Now you can perform "on/off" operations, like manually switching steam
+directions, breaking beams, hiding unwanted rests etc. (adjusting
+placement of elements is *not* an "on/off operation).
+
+#### Global Layout Settings
 
 Once the music is entered and we've seen the default output of your
-program you can adjust the global appearance setting in any way you
-like. You may adjust page layout, staff and font sizes, line thicknesses
-or whatever to realize your "house style". If you want you can now
-also decide about line and page breaking.  
-Please do these things in retraceable steps and commit any sensible unit
-of work. If your document files don't "speak for themselves" through
-Git diffs please document each step meticulously.  
-Again, in this phase you're not allowed yet to tweak any object
-individually.
+program you can adjust the global settings - page layout, staff and
+font sizes, line thicknesses etc.  Don't tweak individual objects yet.
 
 #### Tweak to Usable Quality
 
-For many applications you don't need publication quality scores, the most
-common being the use as performance material. We are interested in the
-amount of work to bring a score to such a state with different tools.
-(Of course we know that the state of 'usable quality' is a highly subjective
-one.)
+One doesn't always need publication quality scores (e.g. for performance
+material). So, start by fixing the most problematic issues (like collisions
+between objects) and leave fine-tuning for the next step.
 
 #### Tweak to Publication Quality
 
-Now you should make your score perfect. You're allowed to use *any*
+Now make your score as beautiful as you can. You're allowed to use *any*
 tools your program offers, including third-party plugins, self-written
-functions or established libraries. But anything has to be reproducible
-by others. This means that if your score requires a - commercial or free -
-plugin or library to be present this fact has to be documented.
-If you use functions or self-written tools
-that aren't publicly available they have to be somehow accessible
-(for LilyPond you can either place them in the input files themselves,
-in directories reachable from the main file or in a library directory
-that we can put into the repostory if necessary).  
-As usual all steps should be documented verbally and/or through Git
-commits.
+functions or established libraries - as long as you document it.
 
 #### Final Proof-reading
 
-A last round of proof-reading should also be made with peer-review.
+A last round of proof-reading should be made with peer-review.
 This should be interested in errors regarding the content as well as
 engraving shortcomings. Here it is specifically important to commit
 each modification individually as we're very interested in the impact
 such fixes will have on an already beautified score.
 So, if adjusting a dynamic makes a slur move and collide with something else,
 please make a commit in that state and then a separate commit for fixing
-the collision that ensued.
+the colliding slur.
 
-## Commit strategies
-
-Please commit very often. We're particularly interested in the detailed
-documentation of the progress, therefore we need this information.
-In general, commit any individual modification or coherent set of
-changes. This may for example be the addition of a complete voice,
-the definition of a page layout or (later in the project) a single
-fixed pitch or positioning. We know that with binary files this will
-bloat the size of the repository because binary files aren't really
-suitable to be version controlled, but we'll accept this for the sake
-of transparency.  
-Use commit messages to leave as much information as possible about
-what you did. You can also use them to store timing information.
-Please make the title of the commit (the "Commit summary" on Github's
-website) as clear as possible because that's what one will see when
-browsing the project history.
-Please don't exceed 50 characters for the message header and 80
-characters for the message body. Use hard line breaks and avoid
-whitespace at line ends.
-
-GIT Editing cycle
--------------
-
-edit files
-
-if you created new files, add them with `git add`.
-
-Commit
-
-push
-
-
-### by Janek:
-* ask participants to measure time spent on each step, to judge which program is faster
-* asking in general "please commit often, so that we can see each stage of the project's progress" does not work very well, because the number of commits people make varies wildly (someone did the whole thing in 3 commits, another in 30, and another had 10 commits just for note entry).  Instead, state the number of expected commits (i think this should be 5-10 for simple pieces and 15-30 for complex ones) and try to list all stages when one's expected to make a commit.  It might be a great help to first typeset the challenge ourselves so that we can see where the commits should be.
-* track *all* pdfs, so that we can afterwards see *every* step.  After all, pdfs are usually 20-100 kB in size, so it shouldn't be too much (100kB * 20 commits = 2 MB per participant, that's not much).
-* as for tracking pdfs (and maybe other binary files): this won't be very "gitish", but i suggest that a new file should be added for every commit (instead of replacing previous file), so that when one checks out the tip of the branch, he can see all stages of work without having to checkout every commit separately.  (Example: sth like what [David Webber did with Mozart](https://github.com/MozartSoftware/engraving-challenges/tree/e3119af366d7bb43ac965286ac2104be981d17dd/challenge02-schumann/Mozart))
-* it seems that some people don't actually commit their program's files (`.mus`, `.sib` etc - whatever their program uses)!  We must emphasize that it's crucial to do this, as we want to be able to reproduce the steps (and the pdfs).
-* ask to commit an empty file first?
 
 
 -------------------------------------------
