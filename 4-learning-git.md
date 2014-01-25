@@ -6,12 +6,15 @@
 -------------------------------------------
 
 
-Working with Git
+As you need to use Git to participate in the challenges, now it's the time to learn more about working with it.  This section assumes you have set up the challenge according to the instructions from [previous section](3-setup.md).
+
+
+Git crash course
 ----------------
 
 ### Committing changes to the files
 
-Now it's time to learn more about working with Git.  Open the command line again, go to your repository and run `git status`.  It should report
+Open the command line again, go to your repository and run `git status`.  It should report
 
     On branch master
     [...]

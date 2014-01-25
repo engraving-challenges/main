@@ -3,10 +3,20 @@
 
 This is an open contest in music engraving, inspired by discussion about a recently published revised edition of [Oskar Fried's songs](http://lilypondblog.org/category/fried-songs/).  It aims to test music notation programs on real-life scores in controlled conditions; we are particularly interested in how they can handle complex notational challenges, and what workflows are possible with these packages.
 
-If you're interested in participating in this adventure, or you'd just like
-to learn more, please proceed to [introduction](1-goals-and-rules.md).
+If you'd like to learn more, take a look at the [introduction](1-goals-and-rules.md).
 You may also read an informal introduction on the [_Scores of Beauty_ blog]
 (http://lilypondblog.org/2014/01/an-engraving-contest/).
+
+#### Instructions
+
+If you're interested in participating in this adventure, check out these instructions:
+
+1. [Goals and rules of the challenges](1-goals-and-rules.md)
+2. [Basic concepts of version control](2-version-control-intro.md)
+3. [Setting up necessary tools](3-setup.md)
+4. [Git crash course](4-learning-git.md)
+5. [Challenges' editing workflow](5-editing-workflow.md)
+6. [Submitting your changes](6-collaboration.md)
 
 #### The Challenges
 

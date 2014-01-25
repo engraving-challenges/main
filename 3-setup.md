@@ -5,7 +5,7 @@
 
 -------------------------------------------
 
-This section will tell you how to setup your copy of an engraving challenge repository.  It is not intended to introduce you to Git's concepts or tell you how to achieve a specific task; look at other sections for information about this.
+This section will tell you how to setup your copy of an engraving challenge repository.  It is not intended to introduce you to Git's concepts - for that, look at the [previous section](2-version-control-intro.md).
 
 
 Set up necessary tools
