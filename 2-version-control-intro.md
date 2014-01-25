@@ -16,6 +16,8 @@ Version control is used to track how a set of files changes over time, and to ma
 
 A version control system (VCS) such as Git stores the complete development history of your project and lets you investigate any state it has ever been in over time.
 
+In Engraving Challenges we use Git as VCS, so the rest of this document is focused on it.
+
 
 <!-- To be sorted out later:
 
@@ -64,7 +66,7 @@ Git Basics
 
 ### Repositories
 
-A project usually has one main repository ("repo"), stored on GitHub - which reflects the "official" state of the project.  This repository is used as the basis for other repositories that individual contributors may maintain, both on GitHub and on their own local machines.  It is customary to refer to this main repository as the "upstream" repo.
+A project usually has one main repository ("repo"), stored on GitHub (or other similar service) - which reflects the "official" state of the project.  This repository is used as the basis for other repositories that individual contributors may maintain, both on GitHub and on their own local machines.  It is customary to refer to this main repository as the "upstream" repo.
 
 This repo is what you will *read* from whenever you need to get the latest versions of the project files.  All your changes should also finally land there, but you will probably not write to this repo directly - the project lead(s) will merge your changes when you sumbit them.
 
@@ -77,11 +79,15 @@ Changes in one repository aren't automatically transferred to other repositories
 
 ### Workflow Overview
 
+#### Working on local copy
+
 Most of the time you'll be working with your local repo, which is your own personal sandbox.  You can play with these files however you like - in particular, you can create new files and tell Git to track them.
 
 Every so often, you'll decide that you want to make a snapshot of the current state of your work.  This is called a "commit".  Making a commit is similar to saving a document after making some modifications, except that when you save a document, it's previous version is overwritten - but when you make a new commit, all previous commits will remain available in your repository.
 
 After one or more of these commits, you can upload ("push") them to your fork on GitHub.  This has two purposes: first, you will have a backup of your work; second, other people will be able to see what you've done.
+
+#### Uploading your work
 
 When you decide that you have finished a coherent set of changes and would like to submit them to the official repo, you once again upload your changes to your GitHub fork and then issue a Pull Request to ask the project lead to merge your changes into the upstream repo.
 

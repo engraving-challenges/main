@@ -16,9 +16,9 @@ Set up necessary tools
 You can download Git [here](http://git-scm.com/downloads).
 
 
-### Create an account on GitHub
+### Haven't used command line before?
 
-Visit [github.com](http://github.com) website.
+Check out [these tips](using-command-line.md).
 
 
 ### Set up Git
@@ -35,9 +35,10 @@ attributed to you:
 
 (This may or may not be the same as the data used for creating a GitHub account.)
 
-### Haven't used command line before?
 
-Check out [these tips](using-command-line.md).
+### Create an account on GitHub
+
+Visit [github.com](http://github.com) website.
 
 
 
@@ -56,6 +57,8 @@ Open the command line, go to the directory into which you want to download the r
     git clone https://github.com/USER_NAME/REPO_NAME.git
 
 replacing USER_NAME with _your_ GitHub username, and REPO_NAME with challenge's repository name (e.g. `estrella`).
+
+Git will create new directory (named as challenge's repository) with complete copy of your fork.
 
 
 ### Add upstream repository to your local clone
