@@ -5,72 +5,84 @@
 
 -------------------------------------------
 
+<!-- Notes about this file:
+- it should give would-be participants a more detailed idea of the contest
+- it should NOT contain detailed specifics
+- it should NOT contain any instructions that the contributor will need later
+- in particular, i think we shouldn't talk about git too much
+-->
 
-Notes about this file:
-- it should NOT contain any too detailed specifics
-- it should NOT contain any instructions
-- there should be nothing here that the contributor must remember (or will be saearching for later)
-- the goal of this document is to let would-be participants a more detailed idea of what the contest is about, what we want to achieve and what we expect from participants.
-- in particular, i think we shouldn't talk (or at least talk a lot) about git 
+Background
+----------
 
----
+The post-production discussion of a big [Edition]
+(http://lilypondblog.org/category/fried-songs/) raised considerable
+and renewed interest in the performance of different notation programs
+when it comes to complex notational challenges.
 
-**TODO: Add short introduction**
+There are programs that create very good out-of-the-box scores
+while others have difficulties sorting out complex notation
+in a satisfactory manner.
+On the other hand there are significant differences in how the
+tools can handle different parts of an editorial workflow:
 
----
+- Music entry
+- Proof-reading
+- Beautification
+- Part "extraction"
+- Rendering a score in different formats/media
+- Collaboration (e.g. between editor and engraver or engraver and proof-readers)
 
-# "Code of Honor":
+In order to investigate this further we thought of a "challenge project"
+comparing various notation programs in a strictly regulated
+environment. Demanding tasks of different kind (style, structure, 
+historic period etc.) form a context in which the performance of each
+program can be analyzed.
 
-While the challenges are explicitly meant to be comparisons we
-deliberately don't want to call them "contests". The main goal of the
-project is pin-pointing potential areas of improvement rather than
-nominating anyone a winner.
 
-While the intent of the **_Scores of Beauty_ Engraving Challenges** clearly *is*
-to compare the performance of different notation programs we deliberately
-did *not* call them "Contests". We're more interested in pin-pointing 
-possible topics for improvement than in nominating a "winner".
+Goals
+-----
+
+While the intent of these challenges clearly *is* to compare the performance of different notation programs, the word "contest" actually isn't a very good description of the project. We're more interested in pin-pointing possible areas for improvement rather than nominating a "winner".  Of course, it is possible that some program will prove superior to others, but we're not going to give participants explicit scores.
+
+We will discuss the results on our [forum](README.md#contact),
+and we also intend to publish summaries and reports somewhere here in this repository
+and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
+
+
+Rules
+-----
+
+The only requirements for participating in the challenges are: (a) being reasonably confident with your notation program and having a current version of it (as otherwise the results wouldn't be reliable), and (b) following the rules:
 
 1. **Meticulously document progress**  
    Documentation of progress and experiences (good or bad) is essential
    to this project, so *please* tell us everything you notice
-   during your work. The appropriate place for such reports is
-   your challenge/tool's directory where you can add many 
-   text files as you want.
-   The publication of final analyses is intended on
-   [Scores of Beauty](http://lilypondblog.org),
-   our LilyPond community blog.  
+   during your work. These reports should be placed in text file(s) inside
+   your directory.
    We'll work inside a Git repository in order to have a full and
    transparent project history.
-2. **Strictly follow the step-by-step rules of the challenge**  
+2. **Work in a prescribed order**  
    In order to be comparable and to allow us to make useful analysis
-   it's important to do everything in a prescribed order. There are
-   the general rules in the current directory and possibly additional
-   instructions specific to the given challenge. These can be found
-   in the challenge's root directory.
+   it's important to do everything in a prescribed order, following
+   step-by-step rules of each challenge.  The "editing workflow"
+   document provides some general guidelines, and there should be
+   more specific instructions in the challenge's repositories.
 3. **Be honest and transparent**  
    The main purpose of these challenges is to analyze the behaviour
    and performance of different notation programs when they are faced
-   certain demanding tasks.
+   with certain demanding tasks.
    Although the comparison of different tools is an essential part of
    this project it's not the main goal to nominate a "winner", and it
    doesn't help anybody to play tricks.
 
----
 
-#### Contributor's Guide
+Ready to go?
+------------
 
-When you've decided to participate in our challenges you should check out
-[setup](2-setup.md)
-to see how to set up your system.
+Next sections will introduce you to the concept of version control, which we use to keep track of the history of the project (and to manage submissions from participants), and will show you how to set up your system.
 
-The [workflow](3-workflow.md) are intended as a guideline for
-the order or operation when working on an assignment. It is important
-to adhere to them so we can reliably compare the progress of the different programs.  
-If that structure significantly comes across what is useful with your
-tool then you should take this as an opportunity to discuss the
-differences in workflows. (Of course you won't be forced then to
-use an unusable workflow.)
+**IMPORTANT:** please make sure you read the [editing workflow](editing-workflow.md) document before starting work on the challenges (of course you should also read other instructions).  You may also [drop us a line](README.md#contact) to let us know that you're participating.  We're looking forward to hearing from you!
 
 
 -------------------------------------------

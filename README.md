@@ -1,61 +1,31 @@
 [_Scores of Beauty_](http://lilypondblog.org/) Engraving Challenges
-===================================================================
+-------------------------------------------------------------------
 
-The post-production discussion of a big [Edition]
-(http://lilypondblog.org/category/fried-songs/) raised considerable
-and renewed interest in the performance of different notation programs
-when it comes to complex notational challenges.
+This is an open contest in music engraving, inspired by discussion about a recently published revised edition of [Oskar Fried's songs](http://lilypondblog.org/category/fried-songs/).  It aims to test music notation programs on real-life scores in controlled conditions; we are particularly interested in how they can handle complex notational challenges, and what workflows are possible with these packages.
 
-There are programs that create very good out-of-the-box scores
-while others have difficulties sorting out complex notation
-in a satisfactory manner.
-On the other hand there are significant differences in how the
-tools can handle different parts of an editorial workflow:
+If you're interested in participating in this adventure, or you'd just like
+to learn more, please proceed to [introduction](1-goals-and-rules.md).
+You may also read an informal introduction on the [_Scores of Beauty_ blog]
+(http://lilypondblog.org/2014/01/an-engraving-contest/).
 
-- Music entry
-- Proof-reading
-- Beautification
-- Creates parts and scores
-- Render a score in different formats/media
-- Collaboration (e.g. between editor and engraver or engraver and proof-readers)
-
-
-In order to investigate this further we thought of a "challenge project"
-comparing LilyPond ("our" tool) with other notation programs in a strictly regulated
-environment. Demanding tasks of different kind (style, structure, 
-historic period etc.) form a context in which the performance of each
-program can be analyzed.
+#### The Challenges
 
 Each challenge is maintained in its own repository on GitHub:
 
-- [**Schumann: _Estrella_** (from *Carnaval* op. 9)](https://github.com/engraving-challenges/estrella)
+- [**Schumann: _Estrella_** (from *Carnaval* op. 9)]
+  (https://github.com/engraving-challenges/estrella)
 - [**Chopin/Godowsky: _Winterwind_** (Study on a Chopin study)]
   (https://github.com/engraving-challenges/winterwind)
 
 When these have been finished we'll consider continuing work with more and different
-challenges. We will publish summaries and reports somewhere here in this repository
-and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
+challenges.
 
----
+#### Contact
 
-If you're interested in participating in this adventure feel free to contact us through
-`ul at openlilylib dot org` (or our forum, see below). 
-The main requirement you should meet is being reasonably confident with your notation
-program and having a current version of it, as otherwise the results wouldn't be reliable.
+- until now all discussion happened on the [openlilylib mailing list](http://lists.sourceforge.net/lists/listinfo/openlilylib-user) (browse the archives [here](http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user))
+- main organizer Urs Liska can be reached at `ul at openlilylib dot org`
+- we plan to move discussions from the mailing list to a [forum](http://engravingchallenges.freeforums.org), so you may look there as well.
 
-**Important:** please contact us before starting any work, to ensure that everything will be set up correctly.
 
-Instructions TOC - TODO
-The "rules" of the contest are explained in
-A hands-on introduction to version control with Git (from the perspective of music engravers)
-will be continuously extended in th [git-introduction](https://github.com/openlilylib/git-introduction/)
-repository.
-
-Communication channels for this project are:
-
-- Our [forum](http://engravingchallenges.freeforums.org)
-- This project's [issue tracker](https://github.com/engraving-challenges/main/issues)  
-  for anything appropriate for an issue tracker
-- Potentially this project's wiki pages (to be considered)
-
-ADD LiCENSING INFORMATION HERE
+-----------------------------------------------------
+By participating in the Challenges, you agree to license your submission under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) license.

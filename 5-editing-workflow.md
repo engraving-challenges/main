@@ -5,6 +5,18 @@
 
 -------------------------------------------
 
+
+Editing workflow
+----------------
+
+The [workflow](3-workflow.md) are intended as a guideline for
+the order or operation when working on an assignment. It is important
+to adhere to them so we can reliably compare the progress of the different programs.
+If that structure significantly comes across what is useful with your
+tool then you should take this as an opportunity to discuss the
+differences in workflows. (Of course you won't be forced then to
+use an unusable workflow.)
+
 # General Challenge Rules / Contributor's Guide
 
 If you participate in an **_Scores of Beauty_ Engraving Challenge** you should
