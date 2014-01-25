@@ -13,7 +13,7 @@ Remember that `upstream` remote repository we [added](3-setup.md#add-upstream-re
 
 Start by checking whether you have any uncommitted changes - use `git status`.  If it says "working directory clean", you're good to go.  If there are uncommitted changes (i.e. there are some files listed under "Changes not staged for commit", you should commit them to avoid the chance of running into trouble when downloading new changes.  If there are no uncommitted changes, but there are some untracked files, you may proceed, but it would be better to either commit or delete these files.
 
-Then, just in case something goes wrong (very unlikely), you may push your work to your GitHub fork with `git push origin master`.  Finally, run
+You may then push your work to your GitHub fork with `git push origin master`, just to have a backup in case something goes wrong (which is very unlikely).  Finally, run
 
     git pull upstream
 
