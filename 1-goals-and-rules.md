@@ -84,6 +84,8 @@ Next sections will introduce you to the concept of version control, which we use
 
 **IMPORTANT:** please make sure you read the [editing workflow](editing-workflow.md) document before starting work on the challenges (of course you should also read other instructions).  You may also [drop us a line](README.md#contact) to let us know that you're participating.  We're looking forward to hearing from you!
 
+Note: by participating in the Challenges, you agree to license your submission under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) license.
+
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
