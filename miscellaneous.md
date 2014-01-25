@@ -13,12 +13,12 @@ Note that Windows notepad _isn't_ a reasonable text editor (it doesn't work well
 
 ### What are `.md` files?
 
-`.md` files are plain text files (similar to `.txt` files) with formatting in [Markdown](http://en.wikipedia.org/wiki/Markdown).  Many websites like GitHub can display Markdown-formatted files nicely formatted.
+`.md` files are [plain text](miscellaneous.md#plain-text) files (similar to `.txt` files) with formatting in [Markdown](http://en.wikipedia.org/wiki/Markdown).  Many websites like GitHub can display Markdown-formatted files nicely formatted.  You can edit these files with [any text editor](miscellaneous.md#editing-text-files).
 
 
 ### Plain text
 
-We say that data is stored in plain text files if these files are human-readable.  In other words, when you open a plain text file in a text editor you will see _text_.  If you see garbage, like this: `xڭ\I#|vܗɐЏLFV&Y\mUe6OKҡ` then it's not a plain text file.
+We say that data is stored in plain text files if these files are human-readable.  In other words, when you open a plain text file in a text editor you will see _text_.  If you see garbage, like this: `xڭ\I#???|vܗɐЏL???????FV&Y\mUe6OKҡ` then it's not a plain text file.
 
 `.txt` and `.md` files are examples of plain text formats.
 

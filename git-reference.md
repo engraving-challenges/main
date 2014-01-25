@@ -3,8 +3,13 @@
 
 -------------------------------------------
 
+As you can see, this section is not done yet.
+
+
+<!-- TODO: clean this up.
 
 This section is not meant to be read all at once.  Rather, use it as a reference, looking up things that are not clear for you.
+
 
 ### git clone
 
@@ -29,6 +34,9 @@ A remote repository is a repository external to this one (UGH).  It usually is p
 
 `git remote --verbose`
 
+If you want to download changes from some repository, you have to add it as a remote so that git will know where to download from.
+
+
 ### working directory
 
 TODO
@@ -39,6 +47,7 @@ TODO
 Clean working directory means that the current state of the files in the working directory is saved (committed) to the repository.  To better understand this, imagine that you open a document in an editor.  If you make some changes but don't save the file, 
 Akin to unsaved changes in an opened file.  You wouln't shut your computer down in such situation.
 
+-->
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
