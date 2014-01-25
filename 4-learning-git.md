@@ -1,6 +1,6 @@
 **_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](3-setup.md)
-[`main page`](http://github.com/engraving-challenges/main/)
+[`main page`](README.md)
 [`next =>`](5-editing-workflow.md)
 
 -------------------------------------------
@@ -111,5 +111,5 @@ then it should be easy for us to help you.
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](3-setup.md)
-[`main page`](http://github.com/engraving-challenges/main/)
+[`main page`](README.md)
 [`next =>`](5-editing-workflow.md)

@@ -1,5 +1,5 @@
 **_Scores of Beauty_ Engraving Challenges**
-[`back to main page`](http://github.com/engraving-challenges/main/)
+[`back to main page`](README.md)
 
 -------------------------------------------
 
@@ -33,4 +33,4 @@ The second method... well, it's only advantage is that the machine can produce t
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
-[`back to main page`](http://github.com/engraving-challenges/main/)
+[`back to main page`](README.md)

@@ -1,6 +1,6 @@
 **_Scores of Beauty_ Engraving Challenges**
 `<= previous`
-[`main page`](http://github.com/engraving-challenges/main/)
+[`main page`](README.md)
 [`next =>`](2-version-control-intro.md)
 
 -------------------------------------------
@@ -88,5 +88,5 @@ Next sections will introduce you to the concept of version control, which we use
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
 `<= previous`
-[`main page`](http://github.com/engraving-challenges/main/)
+[`main page`](README.md)
 [`next =>`](2-version-control-intro.md)

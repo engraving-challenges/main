@@ -1,5 +1,5 @@
 **_Scores of Beauty_ Engraving Challenges**
-[`back to main page`](http://github.com/engraving-challenges/main/)
+[`back to main page`](README.md)
 
 -------------------------------------------
 
@@ -49,4 +49,4 @@ Here are a few tips to get you started:
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
-[`back to main page`](http://github.com/engraving-challenges/main/)
+[`back to main page`](README.md)

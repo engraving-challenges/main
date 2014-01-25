@@ -1,6 +1,6 @@
 **_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](4-learning-git.md)
-[`main page`](http://github.com/engraving-challenges/main/)
+[`main page`](README.md)
 [`next =>`](6-collaboration.md)
 
 -------------------------------------------
@@ -189,5 +189,5 @@ push
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](4-learning-git.md)
-[`main page`](http://github.com/engraving-challenges/main/)
+[`main page`](README.md)
 [`next =>`](6-collaboration.md)

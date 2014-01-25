@@ -1,6 +1,6 @@
 **_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](2-version-control-intro.md)
-[`main page`](http://github.com/engraving-challenges/main/)
+[`main page`](README.md)
 [`next =>`](4-learning-git.md)
 
 -------------------------------------------
@@ -88,5 +88,5 @@ If you're a bit confused, don't worry!  Next section will explain using Git in m
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](2-version-control-intro.md)
-[`main page`](http://github.com/engraving-challenges/main/)
+[`main page`](README.md)
 [`next =>`](4-learning-git.md)

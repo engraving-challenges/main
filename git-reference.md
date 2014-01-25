@@ -1,5 +1,5 @@
 **_Scores of Beauty_ Engraving Challenges**
-[`back to main page`](http://github.com/engraving-challenges/main/)
+[`back to main page`](README.md)
 
 -------------------------------------------
 
@@ -51,4 +51,4 @@ Akin to unsaved changes in an opened file.  You wouln't shut your computer down 
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
-[`back to main page`](http://github.com/engraving-challenges/main/)
+[`back to main page`](README.md)
