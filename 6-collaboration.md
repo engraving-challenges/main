@@ -1,5 +1,5 @@
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](4-learning-git.md)
+[`<= previous`](5-editing-workflow.md)
 [`main page`](README.md)
 `next =>`
 
@@ -42,6 +42,6 @@ You can read more about pull requests in [GitHub help](http://help.github.com/ar
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](4-learning-git.md)
+[`<= previous`](5-editing-workflow.md)
 [`main page`](README.md)
 `next =>`
