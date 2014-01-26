@@ -1,7 +1,7 @@
 **_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](5-editing-workflow.md)
 [`main page`](README.md)
-`next =>`
+[`next =>`](7-discussion.md)
 
 -------------------------------------------
 
@@ -44,4 +44,4 @@ You can read more about pull requests in [GitHub help](http://help.github.com/ar
 **_Scores of Beauty_ Engraving Challenges**
 [`<= previous`](5-editing-workflow.md)
 [`main page`](README.md)
-`next =>`
+[`next =>`](7-discussion.md)

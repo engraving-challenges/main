@@ -17,6 +17,7 @@ If you're interested in participating in this adventure, check out these instruc
 4. [Git crash course](4-learning-git.md)
 5. [Challenges' editing workflow](5-editing-workflow.md)
 6. [Submitting your changes](6-collaboration.md)
+7. [Discussing results](7-discussion.md)
 
 #### The Challenges
 
