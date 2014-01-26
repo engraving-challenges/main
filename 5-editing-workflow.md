@@ -61,6 +61,9 @@ These pdf files should be numbered for easier navigation
 Not every commit should come with a new pdf, but we expect _at least_
 7 pdfs documenting the progress of your challenge.
 
+Note that you _shouldn't_ create copies of your program-specific file
+(i.e. each new commit should contain a _modified_ version of the same file).
+
 
 ### Main Stages of a Challenge
 
