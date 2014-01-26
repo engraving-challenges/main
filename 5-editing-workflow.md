@@ -53,7 +53,7 @@ For simple challenges like Schumann's _Estrella_ we expect about
 10-15 commits; complex pieces like Godowsky's _Winterwind_ may
 warrant something like 15-30 commits.
 
-Every so often, please create a new `.pdf` file showing how your score looks
+**Every so often, please create a new `.pdf`** file showing how your score looks
 at the moment and add it to the commit.  This is _crucial_, as not everyone
 has a copy of your notation software to open your program-specific files.
 These pdf files should be numbered for easier navigation
