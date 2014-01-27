@@ -32,9 +32,10 @@ challenges.
 
 #### Contact
 
-- until now all discussion happened on the [openlilylib mailing list](http://lists.sourceforge.net/lists/listinfo/openlilylib-user) (browse the archives [here](http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user))
+- all discussions should take place on our [forum](http://engravingchallenges.freeforums.org)
 - main organizer Urs Liska can be reached at `ul at openlilylib dot org`
-- we plan to move discussions from the mailing list to a [forum](http://engravingchallenges.freeforums.org), so you may look there as well.
+- we were using [openlilylib mailing list](http://lists.sourceforge.net/lists/listinfo/openlilylib-user)
+  for some time - you may browse the archives [here](http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user)
 
 
 -----------------------------------------------------
