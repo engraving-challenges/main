@@ -125,8 +125,9 @@ one missing long slur...
 
 #### Adjust Line Breaking
 
-**Note:** we are currently discussing this point; it may change in the near future.
-Also, it was introduced after the first two challenges (_Estrella_ and _Winterwind_),
+**Note:** we are currently discussing this point and the order of the
+next points; it may change in the near future.
+Also, this was introduced after the first two challenges (_Estrella_ and _Winterwind_),
 so it doesn't necessarily apply to them.
 
 Your score should have the same line breaks as the original engraving -
