@@ -71,6 +71,9 @@ Please prepare your score in the order described below.  Make a few commits
 (including at least one with a pdf) for each of these stages.  Look in the
 challenge description for more specific stages.
 
+**IMPORTANT NOTE:** we are currently discussing the order of these stages,
+and it may change.  Before starting work, we recommend that you contact us.
+
 #### Task Analysis and Initial Empty File
 
 Have a close look at the assignement and the given score. Please make
