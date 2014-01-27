@@ -34,6 +34,18 @@ Add this timing information to commit descriptions and to your
 documentation document.
 
 
+### Use Version Control
+
+To make possible tracking your workflow, and performance od your program at different stages of work,
+we decided to use a Version Control System - Git.  It will enable us to easily see, how your score changes,
+by saving subsequent snapshots of your files (commits).
+
+How to setup and use Git in Challenges is described in [setup](3-setup.md) and [submitting](6-collaboration.md) sections.
+
+If you've never used Version Control, look at our [Version Control Intro](2-version-control-intro.md)
+and [Git crash course](4-learning-git.md).
+
+
 ### Commit frequently
 
 **This is important!**
@@ -168,6 +180,17 @@ So, if adjusting a dynamic makes a slur move and collide with something else,
 please make a commit in that state and then a separate commit for fixing
 the colliding slur.
 
+
+Submitting your work
+--------------------
+
+How to submit your work is described in [submitting](6-collaboration.md) section.
+
+
+Discussion
+----------
+
+Discuss and compare your results with others on [forum](http://engravingchallenges.freeforums.org).
 
 
 -------------------------------------------

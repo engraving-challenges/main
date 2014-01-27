@@ -14,7 +14,7 @@ What is version control?
 
 Version control is used to track how a set of files changes over time, and to manage these changes.  As a first approximation you may understand version control as an infinitely flexible undo/redo mechanism.
 
-A version control system (VCS) such as Git stores the complete development history of your project and lets you investigate any state it has ever been in over time.
+A version control system (VCS) stores the complete development history of your project and lets you investigate any state it has ever been in over time.
 
 In Engraving Challenges we use Git as VCS, so the rest of this document is focused on it.
 
