@@ -1,7 +1,7 @@
 **_Scores of Beauty_ Engraving Challenges**
 [`Main page`](README.md)
 [`Introduction`](1-goals-and-rules.md)
-[`Editing workflow`](5-editing-workflow)
+[`Editing workflow`](5-editing-workflow.md)
 [`Forum`](http://engravingchallenges.freeforums.org)
 
 -------------------------------------------
@@ -38,10 +38,10 @@ documentation document.
 ### Use Version Control
 
 To make possible tracking your workflow, and performance od your program at different stages of work,
-we decided to use a Version Control System - Git.  It will enable us to easily see, how your score changes,
+we decided to use a Version Control System - Git.  It will enable us to easily see how your score changed over time,
 by saving subsequent snapshots of your files (commits).
 
-How to setup and use Git in Challenges is described in [setup](3-setup.md) and [submitting](6-collaboration.md) sections.
+How to setup and use Git in Challenges is described in [setup](3-setup.md) and [collaboration](6-collaboration.md) sections.
 
 If you are new to Version Control, read our [Version Control Intro](2-version-control-intro.md).
 When you are done with setup, see also [Git crash course](4-learning-git.md).
@@ -104,7 +104,7 @@ simply set up your score with the necessary information about parts etc.
 but do *not* make any adjustments to the layout.  The idea is to get
 an impression of the out-of-the-box output of your tool.
 
-Even more important: *do not* apply *any* individual adjustments -
+Even more important: **do not** apply **any** individual adjustments -
 it has to be the plain content that is entered.  Of course, you should
 assign notes to correct voices (layers).
 
@@ -185,7 +185,7 @@ the colliding slur.
 Submitting your work
 --------------------
 
-How to submit your work is described in [submitting](6-collaboration.md) section.
+How to submit your work is described in [collaboration](6-collaboration.md) section.
 
 
 Discussion
@@ -198,5 +198,5 @@ Discuss and compare your results with others on [forum](http://engravingchalleng
 **_Scores of Beauty_ Engraving Challenges**
 [`Main page`](README.md)
 [`Introduction`](1-goals-and-rules.md)
-[`Editing workflow`](5-editing-workflow)
+[`Editing workflow`](5-editing-workflow.md)
 [`Forum`](http://engravingchallenges.freeforums.org)

@@ -1,7 +1,7 @@
 **_Scores of Beauty_ Engraving Challenges**
 [`Main page`](README.md)
 [`Introduction`](1-goals-and-rules.md)
-[`Editing workflow`](5-editing-workflow)
+[`Editing workflow`](5-editing-workflow.md)
 [`Forum`](http://engravingchallenges.freeforums.org)
 
 -------------------------------------------
@@ -119,5 +119,5 @@ then it should be easy for us to help you.
 **_Scores of Beauty_ Engraving Challenges**
 [`Main page`](README.md)
 [`Introduction`](1-goals-and-rules.md)
-[`Editing workflow`](5-editing-workflow)
+[`Editing workflow`](5-editing-workflow.md)
 [`Forum`](http://engravingchallenges.freeforums.org)

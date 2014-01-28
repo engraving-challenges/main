@@ -19,7 +19,7 @@ Details
 #### Instructions
 
 5. [Challenges' editing workflow](5-editing-workflow.md)
-5. [Submitting your changes](6-collaboration.md)
+5. [Submitting your changes and fetching others' work](6-collaboration.md)
 6. [Discussing results](7-discussion.md)
 
 #### Version Control
