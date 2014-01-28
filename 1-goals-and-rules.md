@@ -53,24 +53,15 @@ program can be analyzed.
 Goals
 -----
 
-While the intent of these challenges clearly *is* to compare the performance of different
-notation programs, the word "contest" actually isn't a very good description of the project.
-We're more interested in pin-pointing possible areas for improvement rather than nominating
-a "winner".  Of course, it is possible that some program will prove superior to others, but
-we're not going to give participants explicit scores.
+While the intent of these challenges clearly *is* to compare the performance of different notation programs, the word "contest" actually isn't a very good description of the project. We're more interested in pin-pointing possible areas for improvement rather than nominating a "winner".  Of course, it is possible that some program will prove superior to others, but we're not going to give participants explicit scores.
 
-We will discuss the results on our [forum](README.md#contact),
-and we also intend to publish summaries and reports somewhere here in this repository
-and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
+We will discuss the results on our [forum](README.md#contact), and we also intend to publish summaries and reports somewhere here in this repository and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
 
 
 Rules
 -----
 
-The only requirements for participating in the challenges are:
-(a) being reasonably confident with your notation program and having a
-current version of it (as otherwise the results wouldn't be reliable), and
-(b) following the rules:
+The only requirements for participating in the challenges are: (a) being reasonably confident with your notation program and having a current version of it (as otherwise the results wouldn't be reliable), and (b) following the rules:
 
 1. **Meticulously document progress**  
    Documentation of progress and experiences (good or bad) is essential
@@ -100,9 +91,7 @@ Ready to go?
 Look at [5-editing workflow](editing-workflow.md) to see more detailed instructions. You may also [drop us a line](README.md#contact) to let us know that you're participating.  We're looking forward
 to hearing from you!
 
-Note: by participating in the Challenges, you agree to license your submission under
-[Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US)
-license.
+Note: by participating in the Challenges, you agree to license your submission under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) license.
 
 
 -------------------------------------------
