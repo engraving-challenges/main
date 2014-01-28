@@ -6,7 +6,7 @@
 
 -------------------------------------------
 
-This section will tell you how to setup your copy of an engraving challenge repository.  It is not intended to introduce you to Git's concepts - for that, look at the [previous section](2-version-control-intro.md).
+This section will tell you how to setup your copy of an engraving challenge repository.  It is not intended to introduce you to Git's concepts - for that, look at the [version control basics](2-version-control-intro.md).
 
 
 Set up necessary tools
@@ -86,8 +86,13 @@ This is a good way to check if everything is working correctly, and announce you
 5. Upload your changes to your GitHub fork with `git push origin master`.
 6. On your fork's GitHub webpage click `Compare & pull request` and then `Send pull request`.
 
-If you're a bit confused, don't worry!  Next section will explain using Git in more detail, and at a more gradual pace.
+If you're a bit confused, don't worry!  Git is explained in more detail in our [crash course](4-learning-git.md).
 
+
+Submitting your work
+--------------------
+
+Once your local repository is set up, you can make commits and submit your work as described in [collaboration](6-collaboration.md) section.
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**

@@ -16,7 +16,7 @@ Git crash course
 
 ### Committing changes to the files
 
-Open the command line again, go to your repository and run `git status`.  It should report
+Open the [command line](using-command-line.md) again, go to your repository and run `git status`.  It should report
 
     On branch master
     [...]
