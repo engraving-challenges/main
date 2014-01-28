@@ -19,6 +19,10 @@ tool suggests you to work, then you can of course deviate. But please
 do so with enough documentation so we can see your reasoning (and learn
 something about your tools).
 
+Note that you don't have to exactly duplicate the layout of the original
+engraving.  We only ask that your score has the same line breaks as the original,
+so that we would be able to make more meaningful comparisons.
+
 Please document your progress and experiences in
 [Markdown](miscellaneous.md#what-are-md-files)
 file(s) - your `README.md` is a good place for such notes.
@@ -70,9 +74,6 @@ Note that you _shouldn't_ create copies of your program-specific file
 Please prepare your score in the order described below.  Make a few commits
 (including at least one with a pdf) for each of these stages.  Look in the
 challenge description for more specific stages.
-
-**IMPORTANT NOTE:** we are currently discussing the order of these stages,
-and it may change.  Before starting work, we recommend that you contact us.
 
 #### Task Analysis and Initial Empty File
 
@@ -126,15 +127,10 @@ e.g. one pitch in wrong octave, one missing accidental,
 one missing long slur...
 -->
 
-#### Adjust Line Breaking
+#### Adjust Line Breaking and Page Layout
 
-**Note:** we are currently discussing this point and the order of the
-next points; it may change in the near future.
-Also, this was introduced after the first two challenges (_Estrella_ and _Winterwind_),
-so it doesn't necessarily apply to them.
-
-Your score should have the same line breaks as the original engraving -
-otherwise it would be harder to reliably compare different submissions.
+Adjust page margins and staff size.  Make sure that your score has
+the same line breaks as the original engraving.
 
 #### On/off Operations
 
@@ -145,8 +141,9 @@ placement of elements is *not* an "on/off operation).
 #### Global Layout Settings
 
 Once the music is entered and we've seen the default output of your
-program you can adjust the global settings - page layout, staff and
-font sizes, line thicknesses etc.  Don't tweak individual objects yet.
+program you can adjust the global settings - music font, thickness
+of various elements, visibility of bar numbers etc.
+Don't tweak individual objects yet.
 
 #### Tweak to Usable Quality
 
