@@ -43,8 +43,8 @@ by saving subsequent snapshots of your files (commits).
 
 How to setup and use Git in Challenges is described in [setup](3-setup.md) and [submitting](6-collaboration.md) sections.
 
-If you've never used Version Control, look at our [Version Control Intro](2-version-control-intro.md)
-and [Git crash course](4-learning-git.md).
+If you are new to Version Control, read our [Version Control Intro](2-version-control-intro.md).
+When you are done with setup, see also [Git crash course](4-learning-git.md).
 
 
 ### Commit frequently

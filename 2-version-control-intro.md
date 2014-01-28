@@ -96,6 +96,10 @@ You will also periodically grab the work others have submitted by pulling change
 
 This basic overview applies to many projects on GitHub.  In the next section, you'll find some more specific information on working with Engraving Challenges repositories.
 
+### Git in Challenges
+
+To participate in challenges, you have to setup Git according to [setup section](3-setup.md).
+After setup you can try [Git crash course](4-learning-git.md).
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
