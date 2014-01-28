@@ -1,7 +1,8 @@
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](4-learning-git.md)
-[`main page`](README.md)
-[`next =>`](6-collaboration.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow)
+[`Forum`](http://engravingchallenges.freeforums.org)
 
 -------------------------------------------
 
@@ -195,6 +196,7 @@ Discuss and compare your results with others on [forum](http://engravingchalleng
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](4-learning-git.md)
-[`main page`](README.md)
-[`next =>`](6-collaboration.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow)
+[`Forum`](http://engravingchallenges.freeforums.org)

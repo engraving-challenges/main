@@ -1,7 +1,8 @@
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](5-editing-workflow.md)
-[`main page`](README.md)
-[`next =>`](7-discussion.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow)
+[`Forum`](http://engravingchallenges.freeforums.org)
 
 -------------------------------------------
 
@@ -42,6 +43,7 @@ You can read more about pull requests in [GitHub help](http://help.github.com/ar
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](5-editing-workflow.md)
-[`main page`](README.md)
-[`next =>`](7-discussion.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow)
+[`Forum`](http://engravingchallenges.freeforums.org)

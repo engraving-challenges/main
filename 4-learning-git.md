@@ -1,12 +1,14 @@
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](3-setup.md)
-[`main page`](README.md)
-[`next =>`](5-editing-workflow.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow)
+[`Forum`](http://engravingchallenges.freeforums.org)
 
 -------------------------------------------
 
 
-As you need to use Git to participate in the challenges, now it's the time to learn more about working with it.  This section assumes you have set up the challenge according to the instructions from [previous section](3-setup.md).
+As you need to use Git to participate in the challenges, now it's the time to learn more about working with it.  This section assumes you know [basics of version control](2-version-control-intro.md), and that you have already installed Git and set up the challenge repository.
+If not, you have to follow instructions from [setup section](3-setup.md).
 
 
 Git crash course
@@ -115,6 +117,7 @@ then it should be easy for us to help you.
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](3-setup.md)
-[`main page`](README.md)
-[`next =>`](5-editing-workflow.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow)
+[`Forum`](http://engravingchallenges.freeforums.org)

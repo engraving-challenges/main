@@ -1,7 +1,8 @@
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](1-goals-and-rules.md)
-[`main page`](README.md)
-[`next =>`](3-setup.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow)
+[`Forum`](http://engravingchallenges.freeforums.org)
 
 -------------------------------------------
 
@@ -98,6 +99,7 @@ This basic overview applies to many projects on GitHub.  In the next section, yo
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](1-goals-and-rules.md)
-[`main page`](README.md)
-[`next =>`](3-setup.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow)
+[`Forum`](http://engravingchallenges.freeforums.org)
