@@ -15,7 +15,7 @@ Start by checking whether you have any uncommitted changes - use `git status`.  
 
 You may then push your work to your GitHub fork with `git push origin master`, just to have a backup in case something goes wrong (which is very unlikely).  Finally, run
 
-    git pull upstream
+    git pull upstream master
 
 And that's it!  You should be able to see new commits using `git log` (or `git log --graph`), and the changes will be visible in your working directory.
 
