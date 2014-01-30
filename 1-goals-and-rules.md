@@ -1,7 +1,8 @@
 **_Scores of Beauty_ Engraving Challenges**
-`<= previous`
-[`main page`](README.md)
-[`next =>`](2-version-control-intro.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow.md)
+[`Forum`](http://engravingchallenges.freeforums.org)
 
 -------------------------------------------
 
@@ -11,6 +12,15 @@
 - it should NOT contain any instructions that the contributor will need later
 - in particular, i think we shouldn't talk about git too much
 -->
+
+What's that?
+------------
+
+Engraving Challenges is an open contest in music engraving.  It's aim is to test
+music notation programs on real-life scores _in controlled conditions_; we are
+particularly interested in how they can handle complex notational challenges, and
+what workflows are possible with these packages.
+
 
 Background
 ----------
@@ -35,7 +45,7 @@ tools can handle different parts of an editorial workflow:
 
 In order to investigate this further we thought of a "challenge project"
 comparing various notation programs in a strictly regulated
-environment. Demanding tasks of different kind (style, structure, 
+environment. Demanding tasks of different kind (style, structure,
 historic period etc.) form a context in which the performance of each
 program can be analyzed.
 
@@ -45,9 +55,7 @@ Goals
 
 While the intent of these challenges clearly *is* to compare the performance of different notation programs, the word "contest" actually isn't a very good description of the project. We're more interested in pin-pointing possible areas for improvement rather than nominating a "winner".  Of course, it is possible that some program will prove superior to others, but we're not going to give participants explicit scores.
 
-We will discuss the results on our [forum](README.md#contact),
-and we also intend to publish summaries and reports somewhere here in this repository
-and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
+We will discuss the results on our [forum](README.md#contact), and we also intend to publish summaries and reports somewhere here in this repository and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
 
 
 Rules
@@ -80,15 +88,15 @@ The only requirements for participating in the challenges are: (a) being reasona
 Ready to go?
 ------------
 
-Next sections will introduce you to the concept of version control, which we use to keep track of the history of the project (and to manage submissions from participants), and will show you how to set up your system.
-
-**IMPORTANT:** please make sure you read the [editing workflow](editing-workflow.md) document before starting work on the challenges (of course you should also read other instructions).  You may also [drop us a line](README.md#contact) to let us know that you're participating.  We're looking forward to hearing from you!
+Look at [editing workflow](5-editing-workflow.md) to see more detailed instructions. You may also [drop us a line](README.md#contact) to let us know that you're participating.  We're looking forward
+to hearing from you!
 
 Note: by participating in the Challenges, you agree to license your submission under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) license.
 
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
-`<= previous`
-[`main page`](README.md)
-[`next =>`](2-version-control-intro.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow.md)
+[`Forum`](http://engravingchallenges.freeforums.org)

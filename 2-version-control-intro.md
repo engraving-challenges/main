@@ -1,7 +1,8 @@
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](1-goals-and-rules.md)
-[`main page`](README.md)
-[`next =>`](3-setup.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow.md)
+[`Forum`](http://engravingchallenges.freeforums.org)
 
 -------------------------------------------
 
@@ -14,7 +15,7 @@ What is version control?
 
 Version control is used to track how a set of files changes over time, and to manage these changes.  As a first approximation you may understand version control as an infinitely flexible undo/redo mechanism.
 
-A version control system (VCS) such as Git stores the complete development history of your project and lets you investigate any state it has ever been in over time.
+A version control system (VCS) stores the complete development history of your project and lets you investigate any state it has ever been in over time.
 
 In Engraving Challenges we use Git as VCS, so the rest of this document is focused on it.
 
@@ -95,9 +96,14 @@ You will also periodically grab the work others have submitted by pulling change
 
 This basic overview applies to many projects on GitHub.  In the next section, you'll find some more specific information on working with Engraving Challenges repositories.
 
+### Git in Challenges
+
+To participate in challenges, you have to setup Git according to [setup section](3-setup.md).
+After setup you can try [Git crash course](4-learning-git.md).
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](1-goals-and-rules.md)
-[`main page`](README.md)
-[`next =>`](3-setup.md)
+[`Main page`](README.md)
+[`Introduction`](1-goals-and-rules.md)
+[`Editing workflow`](5-editing-workflow.md)
+[`Forum`](http://engravingchallenges.freeforums.org)
