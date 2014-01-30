@@ -182,6 +182,10 @@ So, if adjusting a dynamic makes a slur move and collide with something else,
 please make a commit in that state and then a separate commit for fixing
 the colliding slur.
 
+#### Version with Changed Layout
+
+Imagine that your publisher decided to make another edition of the work.
+It could be an ebook or a pocket version.
 
 Submitting your work
 --------------------
