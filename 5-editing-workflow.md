@@ -21,7 +21,8 @@ something about your tools).
 
 Note that you don't have to exactly duplicate the layout of the original
 engraving.  We only ask that your score has the same line breaks as the original,
-so that we would be able to make more meaningful comparisons.
+so that we would be able to make meaningful comparisons - feel free to
+adjust other elements according to your preferences.
 
 Please document your progress and experiences in
 [Markdown](miscellaneous.md#what-are-md-files)
