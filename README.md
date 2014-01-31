@@ -9,7 +9,9 @@ You may also read an informal introduction on the [_Scores of Beauty_ blog]
 
 #### Instructions
 
-If you're interested in participating in this adventure, check out these instructions:
+If you're interested in participating in this adventure, check out these instructions.
+Note that we're actively working on them - while the content will not change much,
+expect that they'll be reorganized during the weekend.
 
 1. [Goals and rules of the challenges](1-goals-and-rules.md)
 2. [Basic concepts of version control](2-version-control-intro.md)
