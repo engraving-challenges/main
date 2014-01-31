@@ -82,6 +82,9 @@ Ready to go?
 
 Next sections will introduce you to the concept of version control, which we use to keep track of the history of the project (and to manage submissions from participants), and will show you how to set up your system.
 
+Note that we're actively working on them - while the content will not change much,
+expect that they'll be reorganized in the next few days.
+
 **IMPORTANT:** please make sure you read the [editing workflow](editing-workflow.md) document before starting work on the challenges (of course you should also read other instructions).  You may also [drop us a line](README.md#contact) to let us know that you're participating.  We're looking forward to hearing from you!
 
 Note: by participating in the Challenges, you agree to license your submission under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) license.
