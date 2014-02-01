@@ -20,7 +20,7 @@ Details
 
 5. [Challenges' editing workflow](2-editing-workflow.md)
 2. [Introduction to version control](3-git-introduction.md)
-4. [Using Git](4-using-git.md)
+4. [Setting up and using Git](4-using-git.md)
 
 #### The Challenges
 
