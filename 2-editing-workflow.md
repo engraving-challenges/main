@@ -25,13 +25,16 @@ engraving.  We only ask that your score has the same line breaks as the original
 so that we would be able to make meaningful comparisons - feel free to
 adjust other elements according to your preferences.
 
+
+### Documenting your progress
+
 Please document your progress and experiences in `progress-report.md`
 [Markdown](http://en.wikipedia.org/wiki/Markdown) file.
 If possible, please measure the time spent during each stage of your work,
 so that we could judge how much effort went into creating your score.
 
 
-### Use Version Control
+#### Use Version Control
 
 To make possible tracking your workflow, and performance od your program at different stages of work,
 we decided to use a Version Control System - Git.  It will enable us to easily see how your score changed over time
@@ -89,7 +92,7 @@ challenge description for more specific stages.
 Have a close look at the assignement.  How do you expect your tools to be able
 to deal with the task, what problems do you expect etc.?
 
-Create an empty file using your notation program, set paper size to what
+Create an empty file using your notation program, set paper size and margins to what
 the challenge description says and commit it.
 
 #### Raw Music Entry
@@ -135,9 +138,9 @@ e.g. one pitch in wrong octave, one missing accidental,
 one missing long slur...
 -->
 
-#### Adjust Line Breaking and Page Layout
+#### Adjust Line Breaking and Staff Size
 
-Adjust page margins and staff size.  Make sure that your score has
+Adjust staff size and make sure that your score has
 the same line breaks as the original engraving.
 
 #### On/off Operations
