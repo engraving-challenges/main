@@ -73,9 +73,8 @@ The only requirements for participating in the challenges are: (a) being reasona
 2. **Work in a prescribed order**  
    In order to be comparable and to allow us to make useful analysis
    it's important to do everything in a prescribed order, following
-   step-by-step rules of each challenge.  The "editing workflow"
-   document provides some general guidelines, and there should be
-   more specific instructions in the challenge's repositories.
+   step-by-step instructions from the "editing workflow" document
+   (and specific informations from challenge's repositories).
 3. **Be honest and transparent**  
    The main purpose of these challenges is to analyze the behaviour
    and performance of different notation programs when they are faced
