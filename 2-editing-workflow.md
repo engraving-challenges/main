@@ -39,7 +39,7 @@ documentation document.
 ### Use Version Control
 
 To make possible tracking your workflow, and performance od your program at different stages of work,
-we decided to use a Version Control System - Git.  It will enable us to easily see how your score changed over time,
+we decided to use a Version Control System - Git.  It will enable us to easily see how your score changed over time
 by saving subsequent snapshots of your files (commits).
 
 How to setup and use Git in Challenges is described in [setup](3-setup.md) and [collaboration](6-collaboration.md) sections.
