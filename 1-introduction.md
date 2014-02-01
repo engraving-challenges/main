@@ -58,37 +58,43 @@ While the intent of these challenges clearly *is* to compare the performance of 
 We will discuss the results on our [forum](README.md#contact), and we also intend to publish summaries and reports somewhere here in this repository and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
 
 
+Requirements
+------------
+
+The only requirements for participating in the challenges are:
+* being reasonably confident with your notation program and having
+  a current version of it (as otherwise the results wouldn't be reliable),
+* following the rules listed below.
+
+
 Rules
 -----
 
-The only requirements for participating in the challenges are: (a) being reasonably confident with your notation program and having a current version of it (as otherwise the results wouldn't be reliable), and (b) following the rules:
-
-1. **Meticulously document progress**  
-   Documentation of progress and experiences (good or bad) is essential
-   to this project, so *please* tell us everything you notice
-   during your work. These reports should be placed in text file(s) inside
-   your directory.  
-   We use version control to have a full and transparent project history.
-   (Version control is explained in the next section.)
-2. **Work in a prescribed order**  
-   In order to be comparable and to allow us to make useful analysis
-   it's important to do everything in a prescribed order, following
-   step-by-step instructions from the "editing workflow" document
-   (and specific informations from challenge's repositories).
-3. **Be honest and transparent**  
+1. **Be honest and transparent**  
    The main purpose of these challenges is to analyze the behaviour
    and performance of different notation programs when they are faced
    with certain demanding tasks.
    Although the comparison of different tools is an essential part of
    this project it's not the main goal to nominate a "winner", and it
    doesn't help anybody to play tricks.
+2. **Meticulously document progress**  
+   Documentation of progress and experiences (good or bad) is essential
+   to this project, so *please* tell us everything you notice during your work.
+   We use [version control](3-git-introduction.md#what-is-version-control)
+   to have a full and transparent project history.
+3. **Work in a prescribed order**  
+   In order to allow us to make meaningful analyses and comparisons,
+   it's important to do everything in a prescribed order, following
+   step-by-step instructions from the ["editing workflow"](2-editing-workflow.md)
+   document (and specific informations from challenges' repositories).
 
 
 Ready to go?
 ------------
 
-Look at [editing workflow](2-editing-workflow.md) to see more detailed instructions. You may also [drop us a line](README.md#contact) to let us know that you're participating.  We're looking forward
-to hearing from you!
+Look at [editing workflow](2-editing-workflow.md) to see detailed instructions.
+Also, feel free to [let us know](http://engravingchallenges.freeforums.org)
+that you're participating. We're looking forward to hearing from you!
 
 Note: by participating in the Challenges, you agree to license your submission under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) license.
 
