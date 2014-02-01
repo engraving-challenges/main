@@ -13,7 +13,7 @@
 - in particular, i think we shouldn't talk about git too much
 -->
 
-What's that?
+What's this?
 ------------
 
 Engraving Challenges is an open contest in music engraving.  It's aim is to test
