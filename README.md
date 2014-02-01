@@ -9,7 +9,7 @@ what workflows are possible with these packages.
 New here?
 =========
 
-Take a look at [introduction](1-goals-and-rules.md).
+Take a look at [introduction](1-introduction.md).
 
 
 Details
@@ -18,7 +18,7 @@ Details
 
 #### Instructions
 
-5. [Challenges' editing workflow](5-editing-workflow.md)
+5. [Challenges' editing workflow](2-editing-workflow.md)
 5. [Submitting your changes and fetching others' work](6-collaboration.md)
 6. [Discussing results](7-discussion.md)
 

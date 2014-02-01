@@ -1,7 +1,7 @@
 **_Scores of Beauty_ Engraving Challenges**
 [`Main page`](README.md)
-[`Introduction`](1-goals-and-rules.md)
-[`Editing workflow`](5-editing-workflow.md)
+[`Introduction`](1-introduction.md)
+[`Editing workflow`](2-editing-workflow.md)
 [`Forum`](http://engravingchallenges.freeforums.org)
 
 -------------------------------------------
@@ -87,7 +87,7 @@ The only requirements for participating in the challenges are: (a) being reasona
 Ready to go?
 ------------
 
-Look at [editing workflow](5-editing-workflow.md) to see more detailed instructions. You may also [drop us a line](README.md#contact) to let us know that you're participating.  We're looking forward
+Look at [editing workflow](2-editing-workflow.md) to see more detailed instructions. You may also [drop us a line](README.md#contact) to let us know that you're participating.  We're looking forward
 to hearing from you!
 
 Note: by participating in the Challenges, you agree to license your submission under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) license.
@@ -96,6 +96,6 @@ Note: by participating in the Challenges, you agree to license your submission u
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
 [`Main page`](README.md)
-[`Introduction`](1-goals-and-rules.md)
-[`Editing workflow`](5-editing-workflow.md)
+[`Introduction`](1-introduction.md)
+[`Editing workflow`](2-editing-workflow.md)
 [`Forum`](http://engravingchallenges.freeforums.org)
