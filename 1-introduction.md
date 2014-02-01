@@ -55,7 +55,9 @@ Goals
 
 While the intent of these challenges clearly *is* to compare the performance of different notation programs, the word "contest" actually isn't a very good description of the project. We're more interested in pin-pointing possible areas for improvement rather than nominating a "winner".  Of course, it is possible that some program will prove superior to others, but we're not going to give participants explicit scores.
 
-We will discuss the results on our [forum](README.md#contact), and we also intend to publish summaries and reports somewhere here in this repository and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
+We will discuss the results on our [forum](http://engravingchallenges.freeforums.org),
+and we also intend to publish summaries and reports somewhere here in this repository
+and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
 
 
 Requirements
@@ -81,11 +83,11 @@ Rules
    Documentation of progress and experiences (good or bad) is essential
    to this project, so *please* tell us everything you notice during your work.
    We use [version control](3-git-introduction.md#what-is-version-control)
-   to have a full and transparent project history.
+   to have a full and transparent project history (this is explained later).
 3. **Work in a prescribed order**  
    In order to allow us to make meaningful analyses and comparisons,
    it's important to do everything in a prescribed order, following
-   step-by-step instructions from the ["editing workflow"](2-editing-workflow.md)
+   step-by-step instructions from the [_editing workflow_](2-editing-workflow.md)
    document (and specific informations from challenges' repositories).
 
 
@@ -94,7 +96,7 @@ Ready to go?
 
 Look at [editing workflow](2-editing-workflow.md) to see detailed instructions.
 Also, feel free to [let us know](http://engravingchallenges.freeforums.org)
-that you're participating. We're looking forward to hearing from you!
+that you're participating - we're looking forward to hearing from you!
 
 Note: by participating in the Challenges, you agree to license your submission under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) license.
 
