@@ -37,9 +37,10 @@ challenges.
 #### Contact
 
 - all discussions should take place on our [forum](http://engravingchallenges.freeforums.org)
-- main organizer Urs Liska can be reached at `ul at openlilylib dot org`
+  (if you have trouble activating your account, contact the administrator - Urs Liska).
+- main organizer Urs Liska can be reached at `ul at openlilylib dot org`.
 - we were using [openlilylib mailing list](http://lists.sourceforge.net/lists/listinfo/openlilylib-user)
-  for some time - you may browse the archives [here](http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user)
+  for some time - you may browse the archives [here](http://sourceforge.net/mailarchive/forum.php?forum_name=openlilylib-user).
 
 
 -----------------------------------------------------
