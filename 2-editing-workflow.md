@@ -165,21 +165,22 @@ Now make your score as beautiful as you can. You're allowed to use *any*
 tools your program offers, including third-party plugins, self-written
 functions or established libraries - as long as you document it.
 
-#### Final Proof-reading
+#### Proof-reading
 
-A last round of proof-reading should be made with peer-review.
-This should be interested in errors regarding the content as well as
-engraving shortcomings. Here it is specifically important to commit
-each modification individually as we're very interested in the impact
-such fixes will have on an already beautified score.
+Check your score for errors in the content as well as engraving shortcomings.
+We're very interested in the impact that making fixes has on an already beautified score.
 So, if adjusting a dynamic makes a slur move and collide with something else,
 please make a commit in that state and then a separate commit for fixing
 the colliding slur.
 
 #### Version with Changed Layout
 
-Imagine that your publisher decided to make another edition of the work.
-It could be an ebook or a pocket version.
+Imagine that your publisher decided to make another edition of the work, for example
+an ebook for tablets, or a pocket version.  This needs a different page layout -
+change paper size to 70% of the original, but keep staff size the same.
+We'd like to see whether such a modified version will still look good, i.e.
+how your previous adjustments will be treated by the software.
+
 
 Submitting your work
 --------------------
