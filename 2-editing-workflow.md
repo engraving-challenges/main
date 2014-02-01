@@ -25,15 +25,10 @@ engraving.  We only ask that your score has the same line breaks as the original
 so that we would be able to make meaningful comparisons - feel free to
 adjust other elements according to your preferences.
 
-Please document your progress and experiences in
-[Markdown](miscellaneous.md#what-are-md-files)
-file(s) - your `README.md` is a good place for such notes.
-Write about problems you encountered, how you solved them etc.
-
+Please document your progress and experiences in `progress-report.md`
+[Markdown](http://en.wikipedia.org/wiki/Markdown) file.
 If possible, please measure the time spent during each stage of your work,
 so that we could judge how much effort went into creating your score.
-Add this timing information to commit descriptions and to your
-documentation document.
 
 
 ### Use Version Control
@@ -91,9 +86,8 @@ challenge description for more specific stages.
 
 #### Task Analysis and Initial Empty File
 
-Have a close look at the assignement and the given score. Please make
-notes about your impressions: How do you expect your tools to be able
-to deal with the task, which problems do you expect etc.?
+Have a close look at the assignement.  How do you expect your tools to be able
+to deal with the task, what problems do you expect etc.?
 
 Create an empty file using your notation program, set paper size to what
 the challenge description says and commit it.
