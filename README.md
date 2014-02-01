@@ -6,26 +6,21 @@ music notation programs on real-life scores _in controlled conditions_; we are
 particularly interested in how they can handle complex notational challenges, and
 what workflows are possible with these packages.
 
-New here?
-=========
 
-Take a look at [introduction](1-introduction.md).
+New here?
+---------
+
+Take a look at the [introduction](1-introduction.md).
 
 
 Details
-=======
-
+-------
 
 #### Instructions
 
 5. [Challenges' editing workflow](2-editing-workflow.md)
-5. [Submitting your changes and fetching others' work](6-collaboration.md)
-6. [Discussing results](7-discussion.md)
-
-#### Version Control
-2. [Basic concepts of version control](2-version-control-intro.md)
-4. [Git crash course](4-learning-git.md)
-3. [Git and GitHub setup](3-setup.md)
+2. [Introduction to version control](3-git-introduction.md)
+4. [Using Git](4-using-git.md)
 
 #### The Challenges
 
