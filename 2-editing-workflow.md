@@ -26,74 +26,65 @@ so that we would be able to make meaningful comparisons - feel free to
 adjust other elements according to your preferences.
 
 
-### Documenting your progress
+Documenting your progress
+-------------------------
 
-Please document your progress and experiences in `progress-report.md`
+Please describe your progress and experiences in `progress-report.md`
 [Markdown](http://en.wikipedia.org/wiki/Markdown) file.
 If possible, please measure the time spent during each stage of your work,
 so that we could judge how much effort went into creating your score.
 
-
-#### Use Version Control
-
-To make possible tracking your workflow, and performance od your program at different stages of work,
-we decided to use a Version Control System - Git.  It will enable us to easily see how your score changed over time
-by saving subsequent snapshots of your files (commits).
-
-How to setup and use Git in Challenges is described in [setup](3-setup.md) and [collaboration](6-collaboration.md) sections.
-
-If you are new to Version Control, read our [Version Control Intro](2-version-control-intro.md).
-When you are done with setup, see also [Git crash course](4-learning-git.md).
-
-
-### Commit frequently
+#### Make snapshots of your score over time
 
 **This is important!**
-The main reason for using version control in Engraving Challenges
-is to be able to see _exactly_ how the process of creating the scores
-looked like in each notation program.  This will be possible only
-if you make enough commits that show intermediate stages of your work,
-so **please commit often**.
+We want to see _exactly_ how the process of creating the scores looked like
+in each notation program.  Therefore we ask you not only to describe the process
+of creating your submission verbally, but also to save intermediate versions
+of your score, so that we can _see_ how it changed over time.  As not everyone
+has a copy of your notation software, please also save exported pdfs in addition
+to your program-specific files.
 
-<!-- Use this somewhere?
-Please commit very often. We're particularly interested in the detailed
-documentation of the progress, therefore we need this information.
--->
-
-In general, commit any coherent set of changes.  This may for example
-be the addition of a complete voice, adding articulations, adjusting
-dynamics, defining page layout or (later in the project) even a single
-fix to an issue discovered during proof-reading.
+In general, make a snapshot for a coherent set of changes, for example:
+entering pitches and durations, adding articulations, or (later in the project)
+even a single fix to an issue discovered during proof-reading.
 
 For simple challenges like Schumann's _Estrella_ we expect about
-10-15 commits; complex pieces like Godowsky's _Winterwind_ may
-warrant something like 15-30 commits.
+10 such savepoints; complex pieces like Godowsky's _Winterwind_ may
+warrant something like 15-20 savepoints.  To make this easier for you,
+in the next section we list specific stages when we expect you to make
+a snapshot.
 
-**Every so often, please create a new `.pdf`** file showing how your score looks
-at the moment and add it to the commit.  This is _crucial_, as not everyone
-has a copy of your notation software to open your program-specific files.
-These pdf files should be numbered for easier navigation
-(like this: `01-notes-only.pdf`, `02-with-articulations.pdf` etc.).
-Not every commit should come with a new pdf, but we expect _at least_
-7 pdfs documenting the progress of your challenge.
+Creating and managing these savepoints is best done with a version control
+system such as Git, but it can also be done manually.
 
-Note that you _shouldn't_ create copies of your program-specific file
-(i.e. each new commit should contain a _modified_ version of the same file).
+#### With version control
+
+Even if you are new to version control, we highly recommend using it -
+start by reading the [Version Control Intro](2-version-control-intro.md).
+[This document](4-using-git.md) describes in detail how to setup and use Git
+for managing an Engraving Challenge.
+
+#### Without version control
+
+If you really don't want to learn using version control, you'll have to save
+each version of the challenge as copied files.  We'll then add these files to the
+repository for you (it may take us a couple days to do so, though - we're
+quite busy).
 
 
-### Main Stages of a Challenge
+Main Stages of a Challenge
+--------------------------
 
-Please prepare your score in the order described below.  Make a few commits
-(including at least one with a pdf) for each of these stages.  Look in the
-challenge description for more specific stages.
+Please prepare your score in the order described below.  Make at least one
+snapshot (with a pdf) for each of these stages.  Look in the challenge description
+for more specific information.
 
 #### Task Analysis and Initial Empty File
 
-Have a close look at the assignement.  How do you expect your tools to be able
-to deal with the task, what problems do you expect etc.?
-
-Create an empty file using your notation program, set paper size and margins to what
-the challenge description says and commit it.
+Have a close look at the assignment.  How do you expect your tools to be able
+to deal with the task, what problems do you expect etc.?  Create an empty file
+using your notation program, set paper size and margins to what the challenge
+description says and make a snapshot.
 
 #### Raw Music Entry
 
@@ -116,7 +107,10 @@ But your notation software fills the lower voice with a rest, like this:
 
 **Do not** remove the additional rest at this stage - we want to see _exactly_
 what your notation software produces out-of-the-box.  You should remove such
-unwanted elements in a separate commit in the next stage.
+unwanted elements in a separate step in the next stage.
+
+We _strongly recommend_ that you check back with us before moving to the next stage,
+to make sure that everything's ok.
 
 <!--
 #### Proof-reading / Peer review
@@ -173,7 +167,7 @@ functions or established libraries - as long as you document it.
 Check your score for errors in the content as well as engraving shortcomings.
 We're very interested in the impact that making fixes has on an already beautified score.
 So, if adjusting a dynamic makes a slur move and collide with something else,
-please make a commit in that state and then a separate commit for fixing
+please make a snapshot in that state and then a separate snapshot for fixing
 the colliding slur.
 
 #### Version with Changed Layout
@@ -188,14 +182,15 @@ how your previous adjustments will be treated by the software.
 Submitting your work
 --------------------
 
-How to submit your work is described in [collaboration](6-collaboration.md) section.
-
+If you're using Git, see [this section](4-using-git.md#submitting-your-changes).
+Otherwise please send an email to the organizators.
 
 Discussion
 ----------
 
 Discuss and compare your results with others on [forum](http://engravingchallenges.freeforums.org).
 
+<!--
 We decided to create a forum for discussions about Engraving Challenges.  This is slightly inconvenient as it requires participants to create an account in yet another web service, but we decided that using email is not a good option since our conversations wouldn't be easily available for the public.
 
 [forum](http://engravingchallenges.freeforums.org)
@@ -207,6 +202,7 @@ After you consider your submission finished, and the pull request gets merged, y
 
 Afteer the discussion finishes, we will put the summary in ...
 
+-->
 
 
 -------------------------------------------

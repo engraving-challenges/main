@@ -124,6 +124,10 @@ The qouted text after "-am" is called "commit message". It is useful to put shor
 
 Now `git status` should again report "nothing to commit, working directory clean".
 
+Note that while there is no need to create copies of your engraving file (Git will
+save all stages of the file when you commit), we ask you to create new pdf files
+for each commit, because that will be easier to view later on.
+
 
 ### Adding new files to the repository
 
