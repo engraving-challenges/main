@@ -1,8 +1,6 @@
 **_Scores of Beauty_ Engraving Challenges**
 [`Main page`](README.md)
-[`Introduction`](1-introduction.md)
-[`Editing workflow`](2-editing-workflow.md)
-[`Forum`](http://engravingchallenges.freeforums.org)
+[`Using Git`](4-using-git.md)
 
 -------------------------------------------
 
@@ -80,6 +78,4 @@ The second method... well, it's only advantage is that the machine can produce t
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
 [`Main page`](README.md)
-[`Introduction`](1-introduction.md)
-[`Editing workflow`](2-editing-workflow.md)
-[`Forum`](http://engravingchallenges.freeforums.org)
+[`Using Git`](4-using-git.md)

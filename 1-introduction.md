@@ -1,8 +1,6 @@
 **_Scores of Beauty_ Engraving Challenges**
 [`Main page`](README.md)
-[`Introduction`](1-introduction.md)
-[`Editing workflow`](2-editing-workflow.md)
-[`Forum`](http://engravingchallenges.freeforums.org)
+[`Editing workflow =>`](2-editing-workflow.md)
 
 -------------------------------------------
 
@@ -104,6 +102,4 @@ Note: by participating in the Challenges, you agree to license your submission u
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
 [`Main page`](README.md)
-[`Introduction`](1-introduction.md)
-[`Editing workflow`](2-editing-workflow.md)
-[`Forum`](http://engravingchallenges.freeforums.org)
+[`Editing workflow =>`](2-editing-workflow.md)

@@ -1,8 +1,6 @@
 **_Scores of Beauty_ Engraving Challenges**
+[`<= Git introduction`](3-git-introduction.md)
 [`Main page`](README.md)
-[`Introduction`](1-introduction.md)
-[`Editing workflow`](2-editing-workflow.md)
-[`Forum`](http://engravingchallenges.freeforums.org)
 
 -------------------------------------------
 
@@ -236,7 +234,5 @@ then it should be easy for us to help you.
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
+[`<= Git introduction`](3-git-introduction.md)
 [`Main page`](README.md)
-[`Introduction`](1-introduction.md)
-[`Editing workflow`](2-editing-workflow.md)
-[`Forum`](http://engravingchallenges.freeforums.org)

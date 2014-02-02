@@ -1,8 +1,7 @@
 **_Scores of Beauty_ Engraving Challenges**
+[`<= Introduction`](1-introduction.md)
 [`Main page`](README.md)
-[`Introduction`](1-introduction.md)
-[`Editing workflow`](2-editing-workflow.md)
-[`Forum`](http://engravingchallenges.freeforums.org)
+[`Git introduction =>`](3-git-introduction.md)
 
 -------------------------------------------
 
@@ -219,7 +218,6 @@ We decided to create a forum for discussions about Engraving Challenges.  This i
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
+[`<= Introduction`](1-introduction.md)
 [`Main page`](README.md)
-[`Introduction`](1-introduction.md)
-[`Editing workflow`](2-editing-workflow.md)
-[`Forum`](http://engravingchallenges.freeforums.org)
+[`Git introduction =>`](3-git-introduction.md)

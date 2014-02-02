@@ -1,8 +1,7 @@
 **_Scores of Beauty_ Engraving Challenges**
+[`<= Editing workflow`](2-editing-workflow.md)
 [`Main page`](README.md)
-[`Introduction`](1-introduction.md)
-[`Editing workflow`](2-editing-workflow.md)
-[`Forum`](http://engravingchallenges.freeforums.org)
+[`Using Git =>`](4-using-git.md)
 
 -------------------------------------------
 
@@ -102,7 +101,6 @@ This basic overview applies to many projects on GitHub.  In the next section, yo
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
+[`<= Editing workflow`](2-editing-workflow.md)
 [`Main page`](README.md)
-[`Introduction`](1-introduction.md)
-[`Editing workflow`](2-editing-workflow.md)
-[`Forum`](http://engravingchallenges.freeforums.org)
+[`Using Git =>`](4-using-git.md)
