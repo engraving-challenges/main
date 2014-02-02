@@ -47,12 +47,16 @@ Here are a few tips to get you started:
   that is currently being executed, so you usually don't want to press this
   key combination accidentally :-)
 
+_Back to [using Git](4-using-git.md)_
+
 
 ### Editing text files
 
 Don't use word processors (like Microsoft Word or OpenOffice) to edit plain text files - it's like driving a truck to take your kids to school.  Instead, use a _text editor_ such as TextMate (on MaxOS), Notepad++ (on Windows), JEdit (on any operating system) or some other.
 
 Note that Windows notepad _isn't_ a reasonable text editor (it doesn't work well with some files) - you have to use something else.  It seems that Microsoft doesn't think that their operating system should include a decent text editor...
+
+_Back to [using Git](4-using-git.md)_
 
 
 ### What are `.md` files?

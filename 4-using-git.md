@@ -11,9 +11,29 @@ are familiar with the [basics of version control](3-git-introduction.md).
 
 #### Table of Contents:
 
+* [Set up necessary tools](4-using-git.md#set-up-necessary-tools)
+  - [Install Git](4-using-git.md#install-git)
+  - [Set up Git](4-using-git.md#set-up-git)
+  - [Create an account on GitHub](4-using-git.md#create-an-account-on-github)
+* [Set up the challenge](4-using-git.md#set-up-the-challenge)
+  - [Fork the challenge's repository](4-using-git.md#fork-the-challenges-repository)
+  - [Clone the repository to your computer](4-using-git.md#clone-the-repository-to-your-computer)
+  - [Add upstream repository to your local clone](4-using-git.md#add-upstream-repository-to-your-local-clone)
+  - [Submit your first commit](4-using-git.md#submit-your-first-commit)
+* [Git crash course](4-using-git.md#git-crash-course)
+  - [git status is your friend](4-using-git.md#git-status-is-your-friend)
+  - [Committing changes to the files](4-using-git.md#committing-changes-to-the-files)
+  - [Adding new files to the repository](4-using-git.md#adding-new-files-to-the-repository)
+  - [Important note about pdf files](4-using-git.md#important-note-about-pdf-files)
+  - [Viewing your commits](4-using-git.md#viewing-your-commits)
+  - [Pushing your changes](4-using-git.md#pushing-your-changes)
+  - [Downloading new changes](4-using-git.md#downloading-new-changes)
+  - [Submitting your changes](4-using-git.md#submitting-your-changes)
+* [Asking for help](4-using-git.md#asking-for-help)
 
-Set up Git
-----------
+
+Set up necessary tools
+----------------------
 
 This section will tell you how to setup your copy of an engraving challenge repository.
 
@@ -24,7 +44,7 @@ You can download Git [here](http://git-scm.com/downloads).
 
 ### Haven't used command line before?
 
-Check out [these tips](using-command-line.md).
+Check out [these tips](miscellaneous.md#using-command-line).
 
 
 ### Set up Git
@@ -64,7 +84,8 @@ Open the command line, go to the directory into which you want to download the r
 
 replacing USER_NAME with _your_ GitHub username, and REPO_NAME with challenge's repository name (e.g. `estrella`).
 
-Git will create new directory (named as challenge's repository) with complete copy of your fork.
+Git will create a new directory (named as the challenge's repository)
+with a complete copy of your fork.
 
 
 ### Add upstream repository to your local clone
@@ -79,8 +100,7 @@ replacing REPO_NAME with the name of the challenge's repository.  This will add 
 
 
 
-Submit your first commit
-------------------------
+### Submit your first commit
 
 This is a good way to check if everything is working correctly, and announce your participation in the challenge.
 
@@ -91,16 +111,27 @@ This is a good way to check if everything is working correctly, and announce you
 5. Upload your changes to your GitHub fork with `git push origin master`.
 6. On your fork's GitHub webpage click `Compare & pull request` and then `Send pull request`.
 
-If you're a bit confused, don't worry!  Git is explained in more detail in the next section.
+If you're a bit confused, don't worry!  Next section explains everything in more detail.
 
 
 Git crash course
 ----------------
-As you need to use Git to participate in the challenges, now it's the time to learn more about working with it. 
+
+Now it's the time to learn more about working with Git. If you are confused
+or don't understand something, don't hesitate to ask on the [forum]
+(http://engravingchallenges.freeforums.org/need-help-ask-here-f8.html).
+
+### `git status` is your friend
+
+As you will see throughout this manual, `git status` is a very useful command that will tell you a lot about the current state is your repository.  I used to run it literally before and after every other command, until I learned enough that I always knew what it will tell me.  In particular, it is a very good habit to run it after each commit - just to check whether all changes were commited succesfully.
+
+Nice thing about this command is that it tells you what commands you can use to accomplish common tasks.
+
 
 ### Committing changes to the files
 
-Open the [command line](using-command-line.md) again, go to your repository and run `git status`.  It should report
+Open the [command line](miscellaneous.md#using-command-line) again,
+go to your repository and run `git status`.  It should report
 
     On branch master
     [...]
@@ -128,16 +159,12 @@ The qouted text after "-am" is called "commit message". It is useful to put shor
 
 Now `git status` should again report "nothing to commit, working directory clean".
 
-Note that while there is no need to create copies of your engraving file (Git will
-save all stages of the file when you commit), we ask you to create new pdf files
-for each commit, because that will be easier to view later on.
-
 
 ### Adding new files to the repository
 
 Git only tracks changes in the files that were once "added" to the repository with `git add`.  In other words, if you just place a file inside the repository working directory and try to make a commit, Git won't look at that file.
 
-Adding new files is very easy.  Create a new file (for example it can be an empty file created with your notation software, which you will later fill with music from the challenge) and run `git status`.  It should list your file under "Untracked files":
+Adding new files to the repo is very easy.  Create a new file (for example the `progress-report.md` file, or an empty file created with your notation software that will be filled with music from the challenge) and run `git status`.  It should list your file under "Untracked files":
 
     [...]
 
@@ -150,9 +177,16 @@ Adding new files is very easy.  Create a new file (for example it can be an empt
 
 By the way, we recommend using dashes `-` instead of spaces in filenames.  Of course, Git can handle filenames with spaces, but using them on the command line is inconvenient.
 
-To add your file to the repository, run `git add your-directory/your-new-file` (use [autocompletion](using-command-line.md) to save typing).  You can also run `git add *` to add all untracked files at once.
+To add your file to the repository, run `git add your-directory/your-new-file` (use [autocompletion](miscellaneous.md#using-command-line.md) to save typing).  You can also run `git add *` to add all untracked files at once.
 
 Now, `git status` should report your file(s) under "Changes to be committed", and you can commit them.
+
+
+### Important note about pdf files
+
+When you modify a file and make a commit, Git will remember the new version of the file _together_ with all its previous versions.  Because of that you could just keep changing your score, overwriting the exported pdf file, and making a commit after each stage of work so that git will remember the state of your engraving file and pdf file at these moments.  All previous versions could then be loaded from Git database with the `checkout` command.
+
+However, it would be inconvenient to have to go through all previous commits to see all versions of your score.  Therefore we ask you to create a **new** pdf file for each commit, so that it will be easier to view your progress (start the names of these pdfs with a number for better sorting).  There is no need to create copies of your engraving file, though - so, each commit should consist of a modification of your engraving file and a new pdf file.
 
 
 ### Viewing your commits
@@ -172,17 +206,9 @@ whcih commands modify the state of the repository?
 -->
 
 
-### `git status` is your friend
+### Downloading new changes
 
-As you probably noticed, `git status` is a very useful command that will tell you in what state is your repository.  I used to run it literally before and after every other command, until I learned enough that I always knew what it will tell me.  In particular, it is a very good habit to run it after each commit - just to check whether all changes were commited succesfully.
-
-Nice thing about this command is that it tells you what you could do, for example how to add files to the repository.
-
-
-Downloading new changes
------------------------
-
-Remember that `upstream` remote repository we [added](3-setup.md#add-upstream-repository-to-your-local-clone) to your local repo during setup?  Here's how to download new stuff from it.
+Remember that `upstream` remote repository we [added](4-using-git.md#add-upstream-repository-to-your-local-clone) to your local repo during setup?  Here's how to download new stuff from it.
 
 Start by checking whether you have any uncommitted changes - use `git status`.  If it says "working directory clean", you're good to go.  If there are uncommitted changes (i.e. there are some files listed under "Changes not staged for commit", you should commit them to avoid the chance of running into trouble when downloading new changes.  If there are no uncommitted changes, but there are some untracked files, you may proceed, but it would be better to either commit or delete these files.
 
@@ -193,8 +219,7 @@ You may then push your work to your GitHub fork with `git push origin master`, j
 And that's it!  You should be able to see new commits using `git log` (or `git log --graph`), and the changes will be visible in your working directory.
 
 
-Submitting your changes
------------------------
+### Submitting your changes
 
 Start by downloading latest changes from the main repo, as described above.  Then, run
 
