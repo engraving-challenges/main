@@ -76,7 +76,7 @@ Main Stages of a Challenge
 --------------------------
 
 Please prepare your score in the order described below.  Make at least one
-snapshot (with a pdf) for each of these stages.  Look in the challenge description
+snapshot (containing engraving file **and** a pdf) for each of these stages.  Look in the challenge description
 for more specific information.
 
 #### Task Analysis and Initial Empty File
