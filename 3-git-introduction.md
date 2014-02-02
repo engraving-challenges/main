@@ -1,30 +1,33 @@
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](1-goals-and-rules.md)
-[`main page`](README.md)
-[`next =>`](3-setup.md)
+[`<= Editing workflow`](2-editing-workflow.md)
+[`Main page`](README.md)
+[`Using Git =>`](4-using-git.md)
 
 -------------------------------------------
 
-If you have not worked on projects that use Git, GitHub, and the Pull Request mechanism for collaborating, here is a brief overview of the basic concepts involved.  If you are already familiar with Git, feel free to skip this section.
-
+If you have not worked on projects that use Git and GitHub for collaborating,
+here is a brief overview of the basic concepts involved.  If you are already
+familiar with these tools, feel free to [skip](4-using-git.md) this section.
 
 
 What is version control?
 ------------------------
 
-Version control is used to track how a set of files changes over time, and to manage these changes.  As a first approximation you may understand version control as an infinitely flexible undo/redo mechanism.
+Version Control Systems (VCS) are used to track how a set of files changes over time,
+and to manage these changes.  VCS software, such as Git, stores the complete development 
+history of a project.  This allows its users to investigate, compare and manipulate any
+states the project has ever been in over time.
 
-A version control system (VCS) such as Git stores the complete development history of your project and lets you investigate any state it has ever been in over time.
+As a first approximation you may understand version control as an infinitely flexible undo/redo mechanism.
 
-In Engraving Challenges we use Git as VCS, so the rest of this document is focused on it.
+The rest of this document is focused on Git, which we use to manage Engraving Challenges.
+
 
 
 <!-- To be sorted out later:
 
-http://git-scm.com/video/what-is-version-control
-
+http://git-scm.com/video/what-is-version-control  
 http://chronicle.com/blogs/profhacker/a-gentle-introduction-to-version-control/23064
-
 
 Why use version control?
 ------------------------
@@ -83,7 +86,7 @@ Changes in one repository aren't automatically transferred to other repositories
 
 Most of the time you'll be working with your local repo, which is your own personal sandbox.  You can play with these files however you like - in particular, you can create new files and tell Git to track them.
 
-Every so often, you'll decide that you want to make a snapshot of the current state of your work.  This is called a "commit".  Making a commit is similar to saving a document after making some modifications, except that when you save a document, it's previous version is overwritten - but when you make a new commit, all previous commits will remain available in your repository.
+Every so often, you'll decide that you want to make a snapshot of the current state of your work.  This is called a "commit".  Making a commit is similar to saving a document after making some modifications, except that when you save a document, it's previous version is overwritten - but when you make a new commit, all previous versions (commits) will remain available in your repository.
 
 After one or more of these commits, you can upload ("push") them to your fork on GitHub.  This has two purposes: first, you will have a backup of your work; second, other people will be able to see what you've done.
 
@@ -98,6 +101,6 @@ This basic overview applies to many projects on GitHub.  In the next section, yo
 
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
-[`<= previous`](1-goals-and-rules.md)
-[`main page`](README.md)
-[`next =>`](3-setup.md)
+[`<= Editing workflow`](2-editing-workflow.md)
+[`Main page`](README.md)
+[`Using Git =>`](4-using-git.md)
