@@ -72,7 +72,7 @@ repository for you (it may take us a couple days to do so, though - we're
 quite busy).
 
 
-Main Stages of a Challenge
+Main stages of a challenge
 --------------------------
 
 Please prepare your score in the order described below.  Make at least one
@@ -84,16 +84,21 @@ Look in the challenge description for more specific information.
 Have a close look at the assignment.  How do you expect your tools to be able
 to deal with the task, what problems do you expect etc.?  Create an empty file
 using your notation program, set paper size and margins to what the challenge
-description says and make a snapshot.
+description says, and set up the score with the necessary information about
+instruments and staves.  Make a snapshot.
 
 #### Raw Music Entry
 
 In the first step please enter the absolute "raw material". That is,
-simply set up your score with the necessary information about parts etc.
-but do *not* make any adjustments to the layout.  The idea is to get
-an impression of the out-of-the-box output of your tool.
+simply enter the musical content (notes, articulations, etc.)
+but do *not* make any adjustments to the layout etc.
+The idea is to get an impression of the out-of-the-box output of your tool.
 
-Even more important: **do not** apply **any** individual adjustments -
+You can split this into two steps: in first, enter only pitches and durations
+(this includes ties and augmentation dots), and in second add other elements
+(articulations, dynamics, etc.).  However, this is not mandatory.
+
+Most importantly, **do not** apply **any** individual adjustments -
 it has to be the plain content that is entered.  Of course, you should
 assign notes to correct voices (layers).
 
@@ -107,7 +112,18 @@ But your notation software fills the lower voice with a rest, like this:
 
 **Do not** remove the additional rest at this stage - we want to see _exactly_
 what your notation software produces out-of-the-box.  You should remove such
-unwanted elements in a separate step in the next stage.
+unwanted elements in a separate step in the "on/off operations" stage.
+
+Another example: let's say you want to notate this:
+
+![notation you want to write](dynamic-collision-example-1.png)
+
+But when you select the note and click "add dynamic", the new symbol lands on top
+of the note:
+
+![notation your software produces](dynamic-collision-example-2.png)
+
+**Do not** adjust the positioning of the dynamic at this stage.
 
 We _strongly recommend_ that you check back with us before moving to the next stage,
 to make sure that everything's ok.
