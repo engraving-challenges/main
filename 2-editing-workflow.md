@@ -60,14 +60,14 @@ system such as Git, but it can also be done manually.
 #### With version control
 
 Even if you are new to version control, we highly recommend using it -
-start by reading the [Version Control Intro](2-version-control-intro.md).
-[This document](4-using-git.md) describes in detail how to setup and use Git
-for managing an Engraving Challenge.
+start by reading the [Version Control Basics](2-version-control-intro.md).
+Detailed instructions for setting up and using Git to manage an Engraving Challenge
+are in [this document](4-using-git.md).
 
 #### Without version control
 
-If you really don't want to learn using version control, you'll have to save
-each version of the challenge as copied files.  We'll then add these files to the
+If you _really_ don't want to learn using version control, you'll have to save
+each version of your score in separate file(s).  We'll then add these files to the
 repository for you (it may take us a couple days to do so, though - we're
 quite busy).
 
@@ -76,8 +76,8 @@ Main Stages of a Challenge
 --------------------------
 
 Please prepare your score in the order described below.  Make at least one
-snapshot (containing engraving file **and** a pdf) for each of these stages.  Look in the challenge description
-for more specific information.
+snapshot (containing the engraving file(s) *and* a pdf) for each of these stages.
+Look in the challenge description for more specific information.
 
 #### Task Analysis and Initial Empty File
 
