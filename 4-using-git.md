@@ -4,9 +4,16 @@
 
 -------------------------------------------
 
+This document contains detailed step-by-step instructions on setting up
+and using Git to work on the Engraving Challenges.  It assumes that you
+are familiar with the [basics of version control](3-git-introduction.md).
 
-Set up necessary tools
-----------------------
+
+#### Table of Contents:
+
+
+Set up Git
+----------
 
 This section will tell you how to setup your copy of an engraving challenge repository.
 
@@ -89,8 +96,7 @@ If you're a bit confused, don't worry!  Git is explained in more detail in the n
 
 Git crash course
 ----------------
-
-As you need to use Git to participate in the challenges, now it's the time to learn more about working with it.  This section assumes you know basics of version control, and that you have already installed Git and set up the challenge repository.
+As you need to use Git to participate in the challenges, now it's the time to learn more about working with it. 
 
 ### Committing changes to the files
 
