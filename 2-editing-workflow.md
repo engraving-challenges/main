@@ -91,7 +91,7 @@ In the first step please enter the absolute "raw material". That is,
 simply enter the musical content (notes, articulations, etc.)
 but do *not* make adjustments to the layout.
 The idea is to get an impression of what your tool produces without manual
-intervention - we'd like to see how much work is required to tweak the score
+intervention - we'd like to see how much work will be required to tweak the score
 to publication quality.
 
 You can split this stage into two steps: in first, enter only pitches and durations
@@ -113,7 +113,7 @@ of the note:
 
 **Do not** adjust the positioning of the dynamic at this stage -
 we want to see _exactly_ what your notation software produces by itself.
-You should fix such issues in "tweaking" stage.
+You should fix such issues in the "tweaking" stage.
 
 We _strongly recommend_ that you check back with us before moving to the next stage,
 to make sure that everything's ok.
@@ -165,9 +165,9 @@ between objects) and leave fine-tuning for the next step.
 
 #### Tweak to Publication Quality
 
-Now make your score as beautiful as you can. You're allowed to use *any*
+Now make your score as beautiful as you can (you're allowed to use *any*
 tools your program offers, including third-party plugins, self-written
-functions or established libraries - as long as you document it.
+functions or libraries - as long as you document it).
 
 #### Proof-reading
 
@@ -184,14 +184,15 @@ an ebook for tablets, or a pocket version.  This needs a different page layout -
 change paper size to 70% of the original, but keep staff size the same.
 We'd like to see whether such a modified version will still look good, i.e.
 how your previous adjustments will be treated by the software
-(so, don't fix collisions and other problems caused by this change).
+(so, don't fix collisions and other problems caused by paper format change).
 
 #### Transposed Version
 
-This doesn't usually happen with publications, but when creatking performance
+This doesn't usually happen with publications, but when creating performance
 materials one sometimes needs to transpose the piece.  Please prepare two
 additional versions - one a minor second higher, and one a major third lower.
 (as above, don't fix layout problems caused by transposition).
+
 
 Submitting your work
 --------------------
