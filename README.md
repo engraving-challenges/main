@@ -2,9 +2,9 @@
 -------------------------------------------------------------------
 
 Engraving Challenges is an open contest in music engraving.  It's aim is to test
-music notation programs (and music engravers, too) on real-life scores _in controlled conditions_; we are
+music notation programs on real-life scores _in controlled conditions_; we are
 particularly interested in how they can handle complex notational challenges, and
-what workflows are possible with various engraving packages.
+what workflows are possible with these packages.
 
 
 New here?
