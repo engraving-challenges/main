@@ -183,8 +183,15 @@ Imagine that your publisher decided to make another edition of the work, for exa
 an ebook for tablets, or a pocket version.  This needs a different page layout -
 change paper size to 70% of the original, but keep staff size the same.
 We'd like to see whether such a modified version will still look good, i.e.
-how your previous adjustments will be treated by the software.
+how your previous adjustments will be treated by the software
+(so, don't fix collisions and other problems caused by this change).
 
+#### Transposed Version
+
+This doesn't usually happen with publications, but when creatking performance
+materials one sometimes needs to transpose the piece.  Please prepare two
+additional versions - one a minor second higher, and one a major third lower.
+(as above, don't fix layout problems caused by transposition).
 
 Submitting your work
 --------------------
