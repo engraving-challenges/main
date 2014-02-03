@@ -99,6 +99,11 @@ You will also periodically grab the work others have submitted by pulling change
 This basic overview applies to many projects on GitHub.  In the next section, you'll find some more specific information on working with Engraving Challenges repositories.
 
 
+### Further reading
+
+Version control might at first seem to be complicated, and you're probably wondering whether it's really worth using.  If that's the case, we suggest that you take a look at [this blog post](http://lilypondblog.org/2014/01/why-use-version-control-for-engraving-scores/) written by Urs Liska.  You may also browse [all posts tagged with "version control"](http://lilypondblog.org/tag/version-control/).
+
+
 -------------------------------------------
 **_Scores of Beauty_ Engraving Challenges**
 [`<= Editing workflow`](2-editing-workflow.md)
