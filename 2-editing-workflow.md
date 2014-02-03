@@ -58,7 +58,7 @@ system such as Git, but it can also be done manually.
 #### With version control
 
 Even if you are new to version control, we highly recommend using it -
-start by reading the [Version Control Basics](2-version-control-intro.md).
+start by reading the [Version Control Basics](3-git-introduction.md).
 Detailed instructions for setting up and using Git to manage an Engraving Challenge
 are in [this document](4-using-git.md).
 
