@@ -19,7 +19,7 @@ music notation programs on real-life scores _in controlled conditions_; we are
 particularly interested in how they can handle complex scores, and
 what workflows are possible with these packages.
 
-Note that this contest is more about comparing engraving software then comparing
+Note that this contest is more about comparing engraving software than comparing
 individual engravers - we do realize that for the true professionals there is nothing
 challenging in the scores we are working on.  However, the point of this project
 is to examine how much _effort_ is required to create such scores and how _robust_
