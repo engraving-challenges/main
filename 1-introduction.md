@@ -16,8 +16,23 @@ What's this?
 
 Engraving Challenges is an open contest in music engraving.  It's aim is to test
 music notation programs on real-life scores _in controlled conditions_; we are
-particularly interested in how they can handle complex notational challenges, and
+particularly interested in how they can handle complex scores, and
 what workflows are possible with these packages.
+
+Note that this contest is more about comparing engraving software then comparing
+individual engravers - we do realize that for the true professionals there is nothing
+challenging in the scores we are working on.  However, the point of this project
+is to examine how much _effort_ is required to create such scores and how _robust_
+the results are (for example, how many corrections are needed when the score is
+transposed or paper format is changed).
+
+<!-- TODO:
+That's why we'd really like pros to show us how it's done in their software.
+In return, we hope to show you new ways of working.
+You'll also have the opportunity to learn about Version Control
+Any other benefits they get?
+Maybe mention that VCS is a subject of research, this would sound serious.
+-->
 
 
 Background
@@ -26,11 +41,11 @@ Background
 The post-production discussion of a big [Edition]
 (http://lilypondblog.org/category/fried-songs/) raised considerable
 and renewed interest in the performance of different notation programs
-when it comes to complex notational challenges.
+when it comes to unusual notations and other engraving challenges.
 
 There are programs that create very good out-of-the-box scores
-while others have difficulties sorting out complex notation
-in a satisfactory manner.
+while others focus on making it easier to adjust the results
+to the engraver's preference.
 On the other hand there are significant differences in how the
 tools can handle different parts of an editorial workflow:
 
@@ -43,7 +58,7 @@ tools can handle different parts of an editorial workflow:
 
 In order to investigate this further we thought of a "challenge project"
 comparing various notation programs in a strictly regulated
-environment. Demanding tasks of different kind (style, structure,
+environment. Tasks of different kind (style, structure,
 historic period etc.) form a context in which the performance of each
 program can be analyzed.
 
@@ -55,16 +70,20 @@ While the intent of these challenges clearly *is* to compare the performance of 
 
 We will discuss the results on our [forum](http://engravingchallenges.freeforums.org),
 and we also intend to publish summaries and reports somewhere here in this repository
-and/or on [Scores of Beauty](http://lilypondblog.org), our Music Engraving Blog.
+and/or on [_Scores of Beauty_](http://lilypondblog.org), our Music Engraving Blog.
 
 
 Requirements
 ------------
 
 The only requirements for participating in the challenges are:
-* being reasonably confident with your notation program and having
-  a current version of it (as otherwise the results wouldn't be reliable),
-* following the rules listed below.
+* following the rules listed below,
+* being at least reasonably confident with your notation program.
+
+We want the results to be reliable and representative, so we'd prefer
+that you work with the latest version of your software.  However, if
+you believe that the latest version isn't the best choice for the job,
+you are free to use another version.
 
 
 Rules
@@ -84,8 +103,8 @@ Rules
    to have a full and transparent project history (this is explained later).
 3. **Work in a prescribed order**  
    In order to allow us to make meaningful analyses and comparisons,
-   it's important to do everything in a prescribed order, following
-   step-by-step instructions from the [_editing workflow_](2-editing-workflow.md)
+   it's important that you follow the step-by-step instructions from the
+   [_editing workflow_](2-editing-workflow.md)
    document (and specific informations from challenges' repositories).
 
 
@@ -97,6 +116,7 @@ Also, feel free to [let us know](http://engravingchallenges.freeforums.org)
 that you're participating - we're looking forward to hearing from you!
 
 Note: by participating in the Challenges, you agree to license your submission under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) license.
+If this would be a problem, please [contact us](README.md#contact).
 
 
 -------------------------------------------

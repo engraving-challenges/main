@@ -3,7 +3,7 @@
 
 Engraving Challenges is an open contest in music engraving.  It's aim is to test
 music notation programs on real-life scores _in controlled conditions_; we are
-particularly interested in how they can handle complex notational challenges, and
+particularly interested in how they can handle complex scores, and
 what workflows are possible with these packages.
 
 
@@ -45,3 +45,4 @@ challenges.
 
 -----------------------------------------------------
 By participating in the Challenges, you agree to license your submission under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US) license.
+If this would be a problem, please contact us.

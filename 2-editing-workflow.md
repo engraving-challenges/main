@@ -19,8 +19,8 @@ tool suggests you to work, then you can of course deviate. But please
 do so with enough documentation so we can see your reasoning (and learn
 something about your tools).
 
-Note that you don't have to exactly duplicate the layout of the original
-engraving.  We only ask that your score has the same line breaks as the original,
+Note that the goal is not to duplicate the layout of the original engraving.
+We only ask that your score has the same line breaks as the original,
 so that we would be able to make meaningful comparisons - feel free to
 adjust other elements according to your preferences.
 
@@ -36,9 +36,8 @@ so that we could judge how much effort went into creating your score.
 #### Make snapshots of your score over time
 
 **This is important!**
-We want to see _exactly_ how the process of creating the scores looked like
-in each notation program.  Therefore we ask you not only to describe the process
-of creating your submission verbally, but also to save intermediate versions
+We want to know _exactly_ how the process of creating the scores looked like.
+Therefore we ask you not only to describe it verbally, but also to save intermediate versions
 of your score, so that we can _see_ how it changed over time.  As not everyone
 has a copy of your notation software, please also save exported pdfs in addition
 to your program-specific files.
@@ -47,7 +46,7 @@ In general, make a snapshot for a coherent set of changes, for example:
 entering pitches and durations, adding articulations, or (later in the project)
 even a single fix to an issue discovered during proof-reading.
 
-For simple challenges like Schumann's _Estrella_ we expect about
+For simple scores like Schumann's _Estrella_ we expect about
 10 such savepoints; complex pieces like Godowsky's _Winterwind_ may
 warrant something like 15-20 savepoints.  To make this easier for you,
 in the next section we list specific stages when we expect you to make
@@ -90,10 +89,12 @@ instruments and staves.  Make a snapshot.
 
 In the first step please enter the absolute "raw material". That is,
 simply enter the musical content (notes, articulations, etc.)
-but do *not* make any adjustments to the layout etc.
-The idea is to get an impression of the out-of-the-box output of your tool.
+but do *not* make adjustments to the layout.
+The idea is to get an impression of what your tool produces without manual
+intervention - we'd like to see how much work is required to tweak the score
+to publication quality.
 
-You can split this into two steps: in first, enter only pitches and durations
+You can split this stage into two steps: in first, enter only pitches and durations
 (this includes ties and augmentation dots), and in second add other elements
 (articulations, dynamics, etc.).  However, this is not mandatory.
 
@@ -103,26 +104,16 @@ assign notes to correct voices (layers).
 
 An example: imagine that you want to notate this:
 
-![notation you want to write](rests-example-1.png)
-
-But your notation software fills the lower voice with a rest, like this:
-
-![notation your software produces](rests-example-2.png)
-
-**Do not** remove the additional rest at this stage - we want to see _exactly_
-what your notation software produces out-of-the-box.  You should remove such
-unwanted elements in a separate step in the "on/off operations" stage.
-
-Another example: let's say you want to notate this:
-
 ![notation you want to write](dynamic-collision-example-1.png)
 
-But when you select the note and click "add dynamic", the new symbol lands on top
+But when you select the note and add dynamic to it, the new symbol lands on top
 of the note:
 
 ![notation your software produces](dynamic-collision-example-2.png)
 
-**Do not** adjust the positioning of the dynamic at this stage.
+**Do not** adjust the positioning of the dynamic at this stage -
+we want to see _exactly_ what your notation software produces by itself.
+You should fix such issues in "tweaking" stage.
 
 We _strongly recommend_ that you check back with us before moving to the next stage,
 to make sure that everything's ok.
@@ -149,8 +140,9 @@ one missing long slur...
 
 #### Adjust Line Breaking and Staff Size
 
-Adjust staff size and make sure that your score has
-the same line breaks as the original engraving.
+Make sure that your score has the same line breaks as the original engraving.
+Adjust staff according to your preferences (of course it would be good if it was
+similar to the original engraving).
 
 #### On/off Operations
 
