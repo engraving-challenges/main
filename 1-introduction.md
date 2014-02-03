@@ -22,7 +22,8 @@ what workflows are possible with these packages.
 Note that this contest is more about comparing engraving software than comparing
 individual engravers - we do realize that for the true professionals there is nothing
 challenging in the scores we are working on.  However, the point of this project
-is to examine how much _effort_ is required to create such scores and how _robust_
+is to examine how much _effort_ is required to create such scores,
+what this process looks like and how _robust_
 the results are (for example, how many corrections are needed when the score is
 transposed or paper format is changed).
 
