@@ -233,7 +233,7 @@ Bearing this in mind, we do
 
     git push --force origin master
 
-and the changes should land on your GitHub fork.  The last thing to do is to create a Pull Request.  On your fork's GitHub page, go to "Pull Requests" (on the right) and click "New pull request".  It should show your chages; after a quick check you can send the pull request.
+and the changes should land on your GitHub fork.  The last thing to do is to create a Pull Request.  On your fork's GitHub page, go to "Pull Requests" (on the right) and click "New pull request".  It should show your changes; after a quick check you can send the pull request by clicking the green **Create pull request** button.
 
 You can read more about pull requests in [GitHub help](http://help.github.com/articles/using-pull-requests).
 
