@@ -186,7 +186,7 @@ Now, `git status` should report your file(s) under "Changes to be committed", an
 
 When you modify a file and make a commit, Git will remember the new version of the file _together_ with all its previous versions.  Because of that you could just keep changing your score, overwriting the exported pdf file, and making a commit after each stage of work so that git will remember the state of your engraving file and pdf file at these moments.  All previous versions could then be loaded from Git database with the `checkout` command.
 
-However, it would be inconvenient to have to go through all previous commits to see all versions of your score.  Therefore we ask you to create a **new** pdf file for each commit, so that it will be easier to view your progress (start the names of these pdfs with a number for better sorting).  There is no need to create copies of your engraving file, though - so, each commit should consist of a modification of your engraving file and a new pdf file.
+However, it would be inconvenient to have to go through all previous commits to see all versions of your score.  Therefore we ask you to create a **new** pdf file for each commit, so that it will be easier to view your progress (start the names of these pdfs with a number for better sorting).  _There is no need to create copies of your engraving file, though_ - so, each commit should consist of a _modification_ of your engraving file and a _new_ pdf file.
 
 
 ### Viewing your commits
