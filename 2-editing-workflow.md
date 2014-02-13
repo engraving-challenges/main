@@ -206,7 +206,7 @@ Discussion
 Discuss and compare your results with others on our [forum](http://engravingchallenges.freeforums.org).
 After your submission has been approved ("merged"), you should start a new thread
 in the subforum of that particular challenge, titled "submission N: notation
-software - your name".
+software - your name".  This thread should include links to your pdf files from the repository and the `progress-report.md` file (please don't paste it into the thread - a link will be more convenient).
 
 After the discussion about a submission ends, we (or you) will create a summary
 and add it to the submission files.
